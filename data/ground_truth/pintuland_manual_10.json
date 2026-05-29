@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PINTULAND-MAN-001",
+    "question": "Cual es el telefono de emergencias de PRIMER EPOXICO POLIAMIDA ROJO Componente A?",
+    "expected_answer": "601 864 33 22, EXT 104 - 127.",
+    "expected_section": 1,
+    "expected_terms": ["601 864 33 22", "104", "127"],
+    "type": "manual_contacto"
+  },
+  {
+    "id": "PINTULAND-MAN-002",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de PRIMER EPOXICO POLIAMIDA ROJO Componente A.",
+    "expected_answer": "UN1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN1263", "3", "III"],
+    "type": "manual_transporte"
+  },
+  {
+    "id": "PINTULAND-MAN-003",
+    "question": "Que CAS aparecen en PRIMER EPOXICO POLIAMIDA ROJO Componente A?",
+    "expected_answer": "Debe incluir 25036-25-3, 108-38-3, 1330-20-7, 100-41-4, 95-47-6, 106-42-3, 110-80-5, 108-65-6 y 64742-95-6.",
+    "expected_section": 3,
+    "expected_terms": ["25036-25-3", "108-38-3", "1330-20-7", "100-41-4", "95-47-6", "106-42-3", "110-80-5", "108-65-6", "64742-95-6"],
+    "type": "manual_cas"
+  },
+  {
+    "id": "PINTULAND-MAN-004",
+    "question": "Que peligros H se reportan para PRIMER EPOXICO POLIAMIDA ROJO Componente A?",
+    "expected_answer": "Debe incluir H350, H315, H319, H226, H340, H360, H317, H312, H302 y H332.",
+    "expected_section": 2,
+    "expected_terms": ["H350", "H315", "H319", "H226", "H340", "H360", "H317", "H312", "H302", "H332"],
+    "type": "manual_peligros"
+  },
+  {
+    "id": "PINTULAND-MAN-005",
+    "question": "Que uso recomendado aparece para VINILO FINO BLANCO?",
+    "expected_answer": "Pintura decorativa.",
+    "expected_section": 1,
+    "expected_terms": ["Pintura decorativa"],
+    "type": "manual_uso"
+  },
+  {
+    "id": "PINTULAND-MAN-006",
+    "question": "VINILO FINO BLANCO esta regulado para transporte?",
+    "expected_answer": "Este producto no esta regulado para su transporte.",
+    "expected_section": 14,
+    "expected_terms": ["no esta regulado", "transporte"],
+    "type": "manual_transporte"
+  },
+  {
+    "id": "PINTULAND-MAN-007",
+    "question": "Que condiciones de almacenamiento reporta VINILO FINO BLANCO?",
+    "expected_answer": "Temperatura minima 4 C, maxima 35 C, tiempo maximo 24 meses.",
+    "expected_section": 7,
+    "expected_terms": ["4", "35", "24 meses"],
+    "type": "manual_almacenamiento"
+  },
+  {
+    "id": "PINTULAND-MAN-008",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de ESMALTE LINEA DORADA ALUMINIO MEZCLA.",
+    "expected_answer": "UN1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN1263", "3", "III"],
+    "type": "manual_transporte"
+  },
+  {
+    "id": "PINTULAND-MAN-009",
+    "question": "Que CAS aparecen en ESMALTE LINEA DORADA ALUMINIO MEZCLA?",
+    "expected_answer": "Debe incluir 8032-32-4, 22464-99-9, 136-52-7, 100-41-4, 64742-48-9, 96-29-7, 136-53-8, 108-88-3 y 64742-95-6.",
+    "expected_section": 3,
+    "expected_terms": ["8032-32-4", "22464-99-9", "136-52-7", "100-41-4", "64742-48-9", "96-29-7", "136-53-8", "108-88-3", "64742-95-6"],
+    "type": "manual_cas"
+  },
+  {
+    "id": "PINTULAND-MAN-010",
+    "question": "En que seccion aparece la proteccion personal para Pintuland?",
+    "expected_answer": "Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["proteccion personal"],
+    "type": "manual_trazabilidad"
+  }
+]

@@ -25,6 +25,8 @@ def normalize(text: str) -> str:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Evaluate RAG against ground truth pairs.")
     parser.add_argument("--manufacturer", default="SIKA")
+    parser.add_argument("--index-dir", default=None, help="Optional explicit index directory.")
+    parser.add_argument("--label", default=None, help="Optional report label when using --index-dir.")
     parser.add_argument("--ground-truth", default="data/ground_truth/sika_ground_truth_25.json")
     parser.add_argument("--top-k", type=int, default=3)
     parser.add_argument("--max-chars-per-source", type=int, default=1700)
@@ -43,12 +45,13 @@ def check_terms(terms: list[str], text: str) -> tuple[bool, float]:
 
 def main() -> int:
     args = parse_args()
-    if args.manufacturer not in MANUFACTURERS:
+    if args.index_dir is None and args.manufacturer not in MANUFACTURERS:
         raise SystemExit(f"Unknown manufacturer: {args.manufacturer}")
 
     gt_path = PROJECT_ROOT / args.ground_truth
     gt_items = json.loads(gt_path.read_text(encoding="utf-8"))
-    index_dir = PROJECT_ROOT / "data" / "indexes" / args.manufacturer.lower()
+    index_dir = Path(args.index_dir) if args.index_dir else PROJECT_ROOT / "data" / "indexes" / args.manufacturer.lower()
+    report_label = (args.label or args.manufacturer).lower()
 
     rows: list[dict] = []
     passed_top1_section = 0
@@ -116,8 +119,8 @@ def main() -> int:
     reports_dir = PROJECT_ROOT / "data" / "reports"
     reports_dir.mkdir(parents=True, exist_ok=True)
     mode = "with_llm" if args.with_llm else "retrieval_only"
-    csv_path = reports_dir / f"ground_truth_eval_{args.manufacturer.lower()}_{mode}.csv"
-    json_path = reports_dir / f"ground_truth_eval_{args.manufacturer.lower()}_{mode}.json"
+    csv_path = reports_dir / f"ground_truth_eval_{report_label}_{mode}.csv"
+    json_path = reports_dir / f"ground_truth_eval_{report_label}_{mode}.json"
 
     with csv_path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=list(rows[0].keys()))
@@ -127,6 +130,7 @@ def main() -> int:
     total = len(rows)
     summary = {
         "manufacturer": args.manufacturer,
+        "index_dir": str(index_dir),
         "ground_truth_items": total,
         "evaluation_mode": mode,
         "top1_section_accuracy": round(passed_top1_section / total, 4),

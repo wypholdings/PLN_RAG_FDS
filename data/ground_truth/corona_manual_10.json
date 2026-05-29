@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CORONA-MAN-001",
+    "question": "Cual es el telefono de emergencias de ESMALTE METAL MASTER PREMIUM?",
+    "expected_answer": "CISTEMA - ARL SURA 018000511414 - 0314055911.",
+    "expected_section": 1,
+    "expected_terms": ["018000511414", "0314055911"],
+    "type": "manual_contacto"
+  },
+  {
+    "id": "CORONA-MAN-002",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de ESMALTE METAL MASTER PREMIUM.",
+    "expected_answer": "UN1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN1263", "3", "III"],
+    "type": "manual_transporte"
+  },
+  {
+    "id": "CORONA-MAN-003",
+    "question": "Que CAS aparecen en ESMALTE METAL MASTER PREMIUM?",
+    "expected_answer": "Debe incluir 64742-47-8, 13463-67-7, 96-29-7, 111-84-2, 22464-99-9 y 136-52-7.",
+    "expected_section": 3,
+    "expected_terms": ["64742-47-8", "13463-67-7", "96-29-7", "111-84-2", "22464-99-9", "136-52-7"],
+    "type": "manual_cas"
+  },
+  {
+    "id": "CORONA-MAN-004",
+    "question": "Que uso recomendado aparece para PINTURA SENALIZACION Y DEMARCACION?",
+    "expected_answer": "Pintura para señalizacion de trafico.",
+    "expected_section": 1,
+    "expected_terms": ["Pintura", "senalizacion", "trafico"],
+    "type": "manual_uso"
+  },
+  {
+    "id": "CORONA-MAN-005",
+    "question": "PINTURA SENALIZACION Y DEMARCACION esta regulada para transporte?",
+    "expected_answer": "Este producto no esta regulado para su transporte.",
+    "expected_section": 14,
+    "expected_terms": ["no esta regulado", "transporte"],
+    "type": "manual_transporte"
+  },
+  {
+    "id": "CORONA-MAN-006",
+    "question": "Que peligros H se reportan para PINTURA SENALIZACION Y DEMARCACION?",
+    "expected_answer": "Debe incluir H401 y H351.",
+    "expected_section": 2,
+    "expected_terms": ["H401", "H351"],
+    "type": "manual_peligros"
+  },
+  {
+    "id": "CORONA-MAN-007",
+    "question": "Que valores limite aparecen para dioxido de titanio en ESMALTE METAL MASTER PREMIUM?",
+    "expected_answer": "Debe incluir dioxido de titanio, CAS 13463-67-7 y valores TWA.",
+    "expected_section": 8,
+    "expected_terms": ["Dioxido de titanio", "13463-67-7", "TWA"],
+    "type": "manual_exposicion"
+  },
+  {
+    "id": "CORONA-MAN-008",
+    "question": "Que precauciones de manipulacion se recomiendan para ESMALTE METAL MASTER PREMIUM?",
+    "expected_answer": "Debe responder desde la Seccion 7.",
+    "expected_section": 7,
+    "expected_terms": ["recipientes", "hermeticamente cerrados"],
+    "type": "manual_manipulacion"
+  },
+  {
+    "id": "CORONA-MAN-009",
+    "question": "Que medidas de EPP aparecen para ESMALTE METAL MASTER PREMIUM?",
+    "expected_answer": "Debe responder desde la Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["equipo de proteccion personal", "EPP"],
+    "type": "manual_epp"
+  },
+  {
+    "id": "CORONA-MAN-010",
+    "question": "En que seccion aparece la informacion relativa al transporte de CORONA?",
+    "expected_answer": "Seccion 14.",
+    "expected_section": 14,
+    "expected_terms": ["transporte"],
+    "type": "manual_trazabilidad"
+  }
+]

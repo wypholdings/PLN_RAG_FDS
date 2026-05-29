@@ -1,0 +1,242 @@
+[
+  {
+    "id": "SIKA-AB-001",
+    "question": "Para Esmalte Uretano Part A, cual es el uso recomendado del producto?",
+    "expected_answer": "Proteccion de Corrosion.",
+    "expected_section": 1,
+    "expected_terms": ["Esmalte Uretano Part A", "Proteccion de Corrosion"],
+    "type": "factual_producto"
+  },
+  {
+    "id": "SIKA-AB-002",
+    "question": "Que telefonos de emergencia aparecen para productos SIKA?",
+    "expected_answer": "CISPROQUIM, Bogota 2886012 / 2886355, resto del pais 01 8000 916012.",
+    "expected_section": 1,
+    "expected_terms": ["CISPROQUIM", "2886012", "916012"],
+    "type": "factual_contacto"
+  },
+  {
+    "id": "SIKA-AB-003",
+    "question": "Que indicaciones de peligro se reportan en la identificacion de peligros?",
+    "expected_answer": "Debe citar la Seccion 2.",
+    "expected_section": 2,
+    "expected_terms": ["Indicaciones de peligro"],
+    "type": "seguridad"
+  },
+  {
+    "id": "SIKA-AB-004",
+    "question": "Que componentes CAS aparecen para Esmalte Uretano Part A?",
+    "expected_answer": "Debe incluir CAS como 123-86-4, 64742-95-6, 108-65-6, 1330-20-7 y 100-41-4.",
+    "expected_section": 3,
+    "expected_terms": ["123-86-4", "64742-95-6", "108-65-6", "1330-20-7", "100-41-4"],
+    "type": "cas"
+  },
+  {
+    "id": "SIKA-AB-005",
+    "question": "Que CAS se reportan para Sika Epoxi 100HS Serie 300 Comp. A?",
+    "expected_answer": "Debe incluir 25068-38-6, 64742-94-5 y 108-78-1.",
+    "expected_section": 3,
+    "expected_terms": ["25068-38-6", "64742-94-5", "108-78-1"],
+    "type": "cas"
+  },
+  {
+    "id": "SIKA-AB-006",
+    "question": "Que debe hacerse en primeros auxilios si hay inhalacion?",
+    "expected_answer": "Debe responder desde la Seccion 4.",
+    "expected_section": 4,
+    "expected_terms": ["inhalacion"],
+    "type": "primeros_auxilios"
+  },
+  {
+    "id": "SIKA-AB-007",
+    "question": "Que medios de extincion se reportan para incendio?",
+    "expected_answer": "Debe responder desde la Seccion 5.",
+    "expected_section": 5,
+    "expected_terms": ["Medios de extincion"],
+    "type": "incendio"
+  },
+  {
+    "id": "SIKA-AB-008",
+    "question": "Que precauciones se indican en caso de vertido accidental?",
+    "expected_answer": "Debe responder desde la Seccion 6.",
+    "expected_section": 6,
+    "expected_terms": ["vertido accidental"],
+    "type": "derrame"
+  },
+  {
+    "id": "SIKA-AB-009",
+    "question": "Que precauciones de manipulacion se indican para productos SIKA?",
+    "expected_answer": "Debe responder desde la Seccion 7.",
+    "expected_section": 7,
+    "expected_terms": ["Manipulacion"],
+    "type": "manipulacion"
+  },
+  {
+    "id": "SIKA-AB-010",
+    "question": "Que proteccion respiratoria, ocular y de manos recomienda Esmalte Uretano Part A?",
+    "expected_answer": "Proteccion respiratoria, guantes quimico-resistentes e impermeables, y equipo de proteccion ocular.",
+    "expected_section": 8,
+    "expected_terms": ["Proteccion respiratoria", "Guantes", "Proteccion de los ojos"],
+    "type": "epp"
+  },
+  {
+    "id": "SIKA-AB-011",
+    "question": "Que parametros de control existen para xileno y etilbenceno?",
+    "expected_answer": "Debe responder desde la Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["xileno", "etilbenceno", "TWA"],
+    "type": "exposicion"
+  },
+  {
+    "id": "SIKA-AB-012",
+    "question": "Que propiedades fisicas y quimicas reporta la ficha?",
+    "expected_answer": "Debe responder desde la Seccion 9.",
+    "expected_section": 9,
+    "expected_terms": ["Propiedades fisicas", "quimicas"],
+    "type": "fisicoquimica"
+  },
+  {
+    "id": "SIKA-AB-013",
+    "question": "Que informacion se reporta sobre estabilidad y reactividad?",
+    "expected_answer": "Debe responder desde la Seccion 10.",
+    "expected_section": 10,
+    "expected_terms": ["Estabilidad", "reactividad"],
+    "type": "reactividad"
+  },
+  {
+    "id": "SIKA-AB-014",
+    "question": "Que informacion toxicologica aparece en la ficha?",
+    "expected_answer": "Debe responder desde la Seccion 11.",
+    "expected_section": 11,
+    "expected_terms": ["toxicologica"],
+    "type": "toxicologia"
+  },
+  {
+    "id": "SIKA-AB-015",
+    "question": "Que informacion ecologica se reporta?",
+    "expected_answer": "Debe responder desde la Seccion 12.",
+    "expected_section": 12,
+    "expected_terms": ["ecologica"],
+    "type": "ecologia"
+  },
+  {
+    "id": "SIKA-AB-016",
+    "question": "Que consideraciones relativas a la eliminacion aparecen?",
+    "expected_answer": "Debe responder desde la Seccion 13.",
+    "expected_section": 13,
+    "expected_terms": ["eliminacion"],
+    "type": "eliminacion"
+  },
+  {
+    "id": "SIKA-AB-017",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de Esmalte Uretano Part A.",
+    "expected_answer": "UN 1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN 1263", "Clase", "III"],
+    "type": "transporte"
+  },
+  {
+    "id": "SIKA-AB-018",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de Sikafloor-161/264 Part B.",
+    "expected_answer": "UN 3066, clase 8, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN 3066", "Clase", "III"],
+    "type": "transporte"
+  },
+  {
+    "id": "SIKA-AB-019",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de Sika Epoxi 100HS Serie 300 Comp. A.",
+    "expected_answer": "UN3082, clase 9, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN3082", "III"],
+    "type": "transporte"
+  },
+  {
+    "id": "SIKA-AB-020",
+    "question": "Que informacion reglamentaria contiene la ficha?",
+    "expected_answer": "Debe responder desde la Seccion 15.",
+    "expected_section": 15,
+    "expected_terms": ["reglamentaria"],
+    "type": "reglamentaria"
+  },
+  {
+    "id": "SIKA-AB-021",
+    "question": "Que otra informacion aparece al final de la FDS?",
+    "expected_answer": "Debe responder desde la Seccion 16.",
+    "expected_section": 16,
+    "expected_terms": ["Otra informacion"],
+    "type": "otra_informacion"
+  },
+  {
+    "id": "SIKA-AB-022",
+    "question": "En que seccion se encuentran los CAS y concentraciones?",
+    "expected_answer": "Seccion 3.",
+    "expected_section": 3,
+    "expected_terms": ["CAS", "Concentracion"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-023",
+    "question": "En que seccion esta el transporte y el numero ONU?",
+    "expected_answer": "Seccion 14.",
+    "expected_section": 14,
+    "expected_terms": ["Numero ONU", "transporte"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-024",
+    "question": "En que seccion se reportan los controles de exposicion?",
+    "expected_answer": "Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["Controles de exposicion"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-025",
+    "question": "Que fuente cita la respuesta para telefonos de SIKA?",
+    "expected_answer": "Debe citar seccion 1 y paginas del PDF fuente.",
+    "expected_section": 1,
+    "expected_terms": ["Telefono", "CISPROQUIM"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-026",
+    "question": "Que fuente cita la respuesta para EPP?",
+    "expected_answer": "Debe citar seccion 8 y paginas del PDF fuente.",
+    "expected_section": 8,
+    "expected_terms": ["Proteccion personal"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-027",
+    "question": "Que fuente cita la respuesta para propiedades fisicas y quimicas?",
+    "expected_answer": "Debe citar seccion 9 y paginas del PDF fuente.",
+    "expected_section": 9,
+    "expected_terms": ["Propiedades fisicas"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-028",
+    "question": "Que fuente cita la respuesta para primeros auxilios?",
+    "expected_answer": "Debe citar seccion 4 y paginas del PDF fuente.",
+    "expected_section": 4,
+    "expected_terms": ["Primeros auxilios"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-029",
+    "question": "Que fuente cita la respuesta para medidas contra incendios?",
+    "expected_answer": "Debe citar seccion 5 y paginas del PDF fuente.",
+    "expected_section": 5,
+    "expected_terms": ["incendios"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "SIKA-AB-030",
+    "question": "Que fuente cita la respuesta para vertidos accidentales?",
+    "expected_answer": "Debe citar seccion 6 y paginas del PDF fuente.",
+    "expected_section": 6,
+    "expected_terms": ["vertido"],
+    "type": "trazabilidad"
+  }
+]

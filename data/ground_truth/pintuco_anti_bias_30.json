@@ -1,0 +1,242 @@
+[
+  {
+    "id": "PINTUCO-AB-001",
+    "question": "Para PQ CORROTEC PREMIUM 507 GRIS, cual es el uso del producto?",
+    "expected_answer": "Recubrimiento base disolvente para uso interior y exterior.",
+    "expected_section": 1,
+    "expected_terms": ["PQ CORROTEC", "Recubrimiento", "interior", "exterior"],
+    "type": "factual_producto"
+  },
+  {
+    "id": "PINTUCO-AB-002",
+    "question": "Cual es el telefono de emergencias de PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "CISTEMA SURA Colombia 018000 51 14 14, fuera de Colombia (0574) 4444578.",
+    "expected_section": 1,
+    "expected_terms": ["CISTEMA SURA", "018000 51 14 14", "4444578"],
+    "type": "factual_contacto"
+  },
+  {
+    "id": "PINTUCO-AB-003",
+    "question": "Cuales son los telefonos del proveedor para PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "01 8000 111 247 y Medellin 604 325 2523.",
+    "expected_section": 1,
+    "expected_terms": ["01 8000 111 247", "604 325 2523"],
+    "type": "factual_contacto"
+  },
+  {
+    "id": "PINTUCO-AB-004",
+    "question": "Que peligros H se reportan para PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "Debe incluir H226, H315, H317, H319, H334, H340, H350, H361, H373 y H412.",
+    "expected_section": 2,
+    "expected_terms": ["H226", "H315", "H317", "H319", "H334", "H340", "H350", "H361", "H373", "H412"],
+    "type": "seguridad"
+  },
+  {
+    "id": "PINTUCO-AB-005",
+    "question": "Que CAS aparecen para PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "Debe incluir 86290-81-5, 8052-41-3, 61790-12-3, 85-44-9, 8032-32-4, 71-43-2, 136-52-7.",
+    "expected_section": 3,
+    "expected_terms": ["86290-81-5", "8052-41-3", "61790-12-3", "85-44-9", "8032-32-4", "71-43-2", "136-52-7"],
+    "type": "cas"
+  },
+  {
+    "id": "PINTUCO-AB-006",
+    "question": "Que componentes CAS aparecen en PINTURA EPOXI POLIAMIDA BLANCO 13243?",
+    "expected_answer": "Debe incluir 25036-25-3, 13463-67-7, 1330-20-7, 111-76-2, 108-38-3, 78-83-1, 100-41-4.",
+    "expected_section": 3,
+    "expected_terms": ["25036-25-3", "13463-67-7", "1330-20-7", "111-76-2", "108-38-3", "78-83-1", "100-41-4"],
+    "type": "cas"
+  },
+  {
+    "id": "PINTUCO-AB-007",
+    "question": "Que primeros auxilios se indican para PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "Debe responder desde la Seccion 4.",
+    "expected_section": 4,
+    "expected_terms": ["Primeros auxilios", "Procurar atencion medica"],
+    "type": "primeros_auxilios"
+  },
+  {
+    "id": "PINTUCO-AB-008",
+    "question": "Que medidas de lucha contra incendios aparecen para PQ CORROTEC PREMIUM 507 GRIS?",
+    "expected_answer": "Debe responder desde la Seccion 5.",
+    "expected_section": 5,
+    "expected_terms": ["Medidas de lucha contra incendios", "extincion"],
+    "type": "incendio"
+  },
+  {
+    "id": "PINTUCO-AB-009",
+    "question": "Que precauciones de vertido accidental se reportan para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 6.",
+    "expected_section": 6,
+    "expected_terms": ["vertido accidental", "Precauciones"],
+    "type": "derrame"
+  },
+  {
+    "id": "PINTUCO-AB-010",
+    "question": "Que condiciones de almacenamiento se recomiendan para PINTURA ANTICORROSIVA GRIS 507?",
+    "expected_answer": "Temperatura minima 5 C, maxima 30 C; mantener recipientes cerrados.",
+    "expected_section": 7,
+    "expected_terms": ["5", "30", "almacenamiento"],
+    "type": "almacenamiento"
+  },
+  {
+    "id": "PINTUCO-AB-011",
+    "question": "Que EPP se recomienda para PINTURA EPOXI POLIAMIDA BLANCO 13243?",
+    "expected_answer": "Debe responder desde la Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["equipo de proteccion personal", "Proteccion respiratoria"],
+    "type": "epp"
+  },
+  {
+    "id": "PINTUCO-AB-012",
+    "question": "Que limites de exposicion aparecen para xileno en PINTURA EPOXI POLIAMIDA BLANCO 13243?",
+    "expected_answer": "Xileno TLV-TWA 100 ppm y TLV-STEL 150 ppm.",
+    "expected_section": 8,
+    "expected_terms": ["Xileno", "100 ppm", "150 ppm"],
+    "type": "exposicion"
+  },
+  {
+    "id": "PINTUCO-AB-013",
+    "question": "Que propiedades fisicas y quimicas reporta PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 9.",
+    "expected_section": 9,
+    "expected_terms": ["Propiedades fisicas", "quimicas"],
+    "type": "fisicoquimica"
+  },
+  {
+    "id": "PINTUCO-AB-014",
+    "question": "Que informacion se reporta sobre estabilidad y reactividad para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 10.",
+    "expected_section": 10,
+    "expected_terms": ["Estabilidad", "reactividad"],
+    "type": "reactividad"
+  },
+  {
+    "id": "PINTUCO-AB-015",
+    "question": "Que informacion toxicologica aparece para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 11.",
+    "expected_section": 11,
+    "expected_terms": ["toxicologica"],
+    "type": "toxicologia"
+  },
+  {
+    "id": "PINTUCO-AB-016",
+    "question": "Que informacion ecologica aparece para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 12.",
+    "expected_section": 12,
+    "expected_terms": ["ecologica"],
+    "type": "ecologia"
+  },
+  {
+    "id": "PINTUCO-AB-017",
+    "question": "Que consideraciones de eliminacion se reportan para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 13.",
+    "expected_section": 13,
+    "expected_terms": ["eliminacion"],
+    "type": "eliminacion"
+  },
+  {
+    "id": "PINTUCO-AB-018",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de PQ CORROTEC PREMIUM 507 GRIS.",
+    "expected_answer": "UN 1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN1263", "3", "III"],
+    "type": "transporte"
+  },
+  {
+    "id": "PINTUCO-AB-019",
+    "question": "Indica el numero ONU, clase y grupo de embalaje de PINTURA EPOXI POLIAMIDA BLANCO 13243.",
+    "expected_answer": "UN1263, clase 3, grupo III.",
+    "expected_section": 14,
+    "expected_terms": ["UN1263", "3", "III"],
+    "type": "transporte"
+  },
+  {
+    "id": "PINTUCO-AB-020",
+    "question": "PINTURA ANTICORROSIVA GRIS 507 esta regulada para transporte?",
+    "expected_answer": "Este producto no esta regulado para su transporte.",
+    "expected_section": 14,
+    "expected_terms": ["no esta regulado", "transporte"],
+    "type": "transporte"
+  },
+  {
+    "id": "PINTUCO-AB-021",
+    "question": "Que informacion reglamentaria aparece para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 15.",
+    "expected_section": 15,
+    "expected_terms": ["reglamentaria"],
+    "type": "reglamentaria"
+  },
+  {
+    "id": "PINTUCO-AB-022",
+    "question": "Que otra informacion aparece al final para PQ CORROTEC?",
+    "expected_answer": "Debe responder desde la Seccion 16.",
+    "expected_section": 16,
+    "expected_terms": ["Otra informacion"],
+    "type": "otra_informacion"
+  },
+  {
+    "id": "PINTUCO-AB-023",
+    "question": "En que seccion estan los componentes y CAS de Pintuco?",
+    "expected_answer": "Seccion 3.",
+    "expected_section": 3,
+    "expected_terms": ["CAS", "Componentes"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-024",
+    "question": "En que seccion aparece la informacion relativa al transporte?",
+    "expected_answer": "Seccion 14.",
+    "expected_section": 14,
+    "expected_terms": ["transporte"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-025",
+    "question": "En que seccion aparece la proteccion individual?",
+    "expected_answer": "Seccion 8.",
+    "expected_section": 8,
+    "expected_terms": ["proteccion individual"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-026",
+    "question": "Que fuente cita la respuesta para telefonos de Pintuco?",
+    "expected_answer": "Debe citar seccion 1 y paginas del PDF fuente.",
+    "expected_section": 1,
+    "expected_terms": ["Telefono", "Pintuco"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-027",
+    "question": "Que fuente cita la respuesta para peligros H?",
+    "expected_answer": "Debe citar seccion 2 y paginas del PDF fuente.",
+    "expected_section": 2,
+    "expected_terms": ["Indicaciones de peligro"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-028",
+    "question": "Que fuente cita la respuesta para almacenamiento?",
+    "expected_answer": "Debe citar seccion 7 y paginas del PDF fuente.",
+    "expected_section": 7,
+    "expected_terms": ["almacenamiento"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-029",
+    "question": "Que fuente cita la respuesta para propiedades fisicas?",
+    "expected_answer": "Debe citar seccion 9 y paginas del PDF fuente.",
+    "expected_section": 9,
+    "expected_terms": ["Propiedades fisicas"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "PINTUCO-AB-030",
+    "question": "Que fuente cita la respuesta para eliminacion?",
+    "expected_answer": "Debe citar seccion 13 y paginas del PDF fuente.",
+    "expected_section": 13,
+    "expected_terms": ["eliminacion"],
+    "type": "trazabilidad"
+  }
+]
