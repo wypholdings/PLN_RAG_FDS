@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import shutil
 import sys
 from pathlib import Path
 
@@ -89,6 +90,9 @@ def main() -> int:
         document = convert_pdf(path, args.manufacturer, PROCESSED_DIR / "assets")
         canonical = seen_text_hashes.get(document.text_sha256)
         if canonical and not args.include_duplicates:
+            duplicate_assets_dir = PROCESSED_DIR / "assets" / document.manufacturer / document.document_id
+            if document.document_id != canonical["document_id"] and duplicate_assets_dir.exists():
+                shutil.rmtree(duplicate_assets_dir)
             aliases.append(
                 {
                     "alias_source_file": document.source_file,

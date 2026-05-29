@@ -26,7 +26,7 @@ SECTION_TITLES = {
 
 
 SECTION_PATTERN = re.compile(
-    r"(?im)(?:^|\n)\s*(?:secci[oó]n|section)\s*0?(1[0-6]|[1-9])\s*[:.\-]?\s*([^\n]{0,180})"
+    r"(?im)(?:secci[oó]n|section)\s*0?(1[0-6]|[1-9])\s*[:.\-]?\s*([^\n]*?)(?=(?:secci[oó]n|section)\s*0?(?:1[0-6]|[1-9])\s*[:.\-]?|\n|$)"
 )
 
 
@@ -68,7 +68,7 @@ def iter_section_hits(page_texts: Iterable[str]) -> list[SectionHit]:
         normalized = normalize_text(text or "")
         for match in SECTION_PATTERN.finditer(normalized):
             number = int(match.group(1))
-            title = " ".join((match.group(2) or "").split())
+            title = " ".join((match.group(2) or "").split())[:180]
             if sum(character.isalpha() for character in title) < 3:
                 continue
             hits.append(

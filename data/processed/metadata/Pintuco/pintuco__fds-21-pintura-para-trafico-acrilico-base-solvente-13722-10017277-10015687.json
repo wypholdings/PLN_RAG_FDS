@@ -1,0 +1,1510 @@
+{
+  "document_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687",
+  "manufacturer": "Pintuco",
+  "source_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/Documentos - Parcial final/Pintuco/FDS 21 - Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf",
+  "source_file": "FDS 21 - Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf",
+  "product": "PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722",
+  "page_count": 12,
+  "file_sha256": "842f520284a0977810411481b185d6e423bc02bbe70afa5b4ff7699214ca3cc3",
+  "text_sha256": "937d35a119ab289b42868d7e1fafa651b961ebfedc8633a677517db18b8d83f3",
+  "section_count": 16,
+  "sections": [
+    {
+      "number": 1,
+      "title": "Identificacion de la sustancia o la mezcla y de la sociedad o la empresa",
+      "page_start": 1,
+      "page_end": 1,
+      "text": "1.1 Identificador SGA del producto: PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722\n10017277-10015687\n\n1.2 Uso recomendado del producto químico y restricciones:\nUsos pertinentes: Pintura para señalización de tráfico. Uso exclusivo usuario profesional.\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n1.3 Datos sobre el proveedor:\nPintuco\nAutopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colombia\nTfno.: 57 4 569 81 00\ncontacto@pintuco.com\nhttp://www.pintuco.com\n\n1.4 Número de teléfono para emergencias: 57 4 561 22 23"
+    },
+    {
+      "number": 2,
+      "title": "Identificacion de los peligros",
+      "page_start": 1,
+      "page_end": 2,
+      "text": "2.1 Clasificación de la sustancia o de la mezcla:\nSGA:\nLa clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente\nArmonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.\n\nIrrit. Cut. 2: Irritación cutánea, categoría 2, H315\nLiq. Infl. 2: Líquidos inflamables, Categoría 2, H225\nSTOT unica 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336\nTox. Asp. 1: Peligro por aspiración, Categoría 1, H304\n\n2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:\nSGA:\nPeligro\n\nIndicaciones de peligro:\nIrrit. Cut. 2: H315 - Provoca irritación cutánea\nLiq. Infl. 2: H225 - Líquido y vapores muy inflamables\nSTOT unica 3: H336 - Puede provocar somnolencia o vértigo\nTox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias\n\nConsejos de prudencia:\nP201: Procurarse las instrucciones antes del uso\nP210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar\nP280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara\nP302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua\nP304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la\nrespiración\nP308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico\nP370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción\nP501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases\nrespectivamente\n\nSustancias que contribuyen a la clasificación\nAcetato de etilo\n2.3 Otros peligros que no conducen a una clasificación:\nNo relevante\n\nPágina 1/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018"
+    },
+    {
+      "number": 3,
+      "title": "Composicion/informacion sobre los componentes",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "3.1 Sustancias:\nNo aplicable\n3.2 Mezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\nIdentificación Nombre químico/clasificación Concentración\n\nCAS:\n\n108-88-3\n\nTolueno\n10 - <25 %\n\nCAS:\n\n13463-67-7\n\nDioxido de titanio 2.5 - <10 %\n\nCAS:\n\n141-78-6\n\nAcetato de etilo\n2.5 - <10 %\n\nCAS:\n\n110-19-0\n\nAcetato de isobutilo\n1 - <2.5 %\n\nCAS:\n\n14808-60-7\n\nCuarzo (1 % < RCS < 10 %) <1 %\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 11."
+    },
+    {
+      "number": 4,
+      "title": "Primeros auxilios",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "4.1 Descripción de los primeros auxilios necesarios:\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de\nduda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este\nproducto.\n\nPor inhalación:\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada\ncardiorespiratoria, se aplicarán técnicas de respiración artificial (respiración boca a boca, masaje cardíaco, suministro de\noxígeno,etc.) requiriendo asistencia médica inmediata.\n\nPor contacto con la piel:\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En\ncaso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a\nque podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas\nnunca deben reventarse ya que aumentaría el riesgo de infección.\n\nPor contacto con los ojos:\nEnjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre\nlos ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos,\nde otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más\nrápidamente posible con la FDS del producto.\n\nPor ingestión/aspiración:\nRequerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca\nmantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por\nvía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en\nla ingestión. Mantener al afectado en reposo.\n\n4.2 Síntomas/efectos más importantes, agudos o retardados:\nLos efectos agudos y retardados son los indicados en las secciones 2 y 11.\n4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial:\nNo relevante"
+    },
+    {
+      "number": 5,
+      "title": "Medidas de lucha contra incendios",
+      "page_start": 2,
+      "page_end": 3,
+      "text": "5.1 Medios de extinción apropiados:\n\nPágina 2/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS (continúa)\nEmplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido\nde carbono (CO2). NO SE RECOMIENDA emplear agua a chorro como agente de extinción.\n\n5.2 Peligros específicos del producto químico:\nComo consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar\naltamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.\n\n5.3 Medidas especiales que deben tomar los equipos de lucha contra incendios:\nEn función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración\nautónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).\n\nDisposiciones adicionales:\nActuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias.\nSuprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos\nsusceptibles a inflamación, explosión como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en\nla extinción del incendio al medio acuático."
+    },
+    {
+      "number": 6,
+      "title": "Medidas en caso de vertido accidental",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "6.1 Precauciones personales, equipo protector y procedimiento de emergencia:\nAislar las fugas siempre y cuando no suponga un riesgo adicional para las personas que desempeñen esta función. Evacuar la zona\ny mantener a las personas sin protección alejadas. Ante el contacto potencial con el producto derramado se hace obligatorio el uso\nde elementos de protección personal (ver sección 8). Evitar de manera prioritaria la formación de mezclas vapor-aire inflamables, ya\nsea mediante ventilación o el uso de un agente inertizante. Suprimir cualquier fuente de ignición. Eliminar las cargas electroestáticas\nmediante la interconexión de todas las superficies conductoras sobre las que se puede formar electricidad estática, y estando a su\nvez el conjunto conectado a tierra.\n\n6.2 Precauciones relativas al medio ambiente:\nProducto no clasificado como peligroso para el medioambiente. Mantener el producto alejado de los desagües y de las aguas\nsuperficiales y subterráneas.\n\n6.3 Métodos y materiales para la contención y limpieza de vertidos:\nSe recomienda:\nAbsorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes\ncombustibles. Para cualquier consideración relativa a la eliminación consultar la sección 13.\n\n6.4 Referencias a otras secciones:\nVer secciones 8 y 13."
+    },
+    {
+      "number": 7,
+      "title": "Manipulacion y almacenamiento",
+      "page_start": 3,
+      "page_end": 4,
+      "text": "7.1 Precauciones que se deben tomar para garantizar una manipulación segura:\nA.- Precauciones generales\nCumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente\ncerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el\nrecipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.\n\nB.- Recomendaciones técnicas para la prevención de incendios y explosiones.\nTrasvasar en lugares bien ventilados, preferentemente mediante extracción localizada. Controlar totalmente los focos de ignición\n(teléfonos móviles, chispas,…) y ventilar en las operaciones de limpieza. Evitar la existencia de atmósferas peligrosas en el\ninterior de recipientes, aplicando en lo posible sistemas de inertización. Trasvasar a velocidades lentas para evitar la generación\nde cargas electroestáticas. Ante la posibilidad de existencia de cargas electroestáticas: asegurar una perfecta conexión\nequipotencial, utilizar siempre tomas de tierras, no emplear ropa de trabajo de fibras acrílicas, empleando preferiblemente ropa de\nalgodón y calzado conductor. Cumplir con los requisitos esenciales de seguridad para equipos y con las disposiciones mínimas\npara la protección de la seguridad y salud de los trabajadores. Consultar la sección 10 sobre condiciones y materias que deben\nevitarse.\n\nC.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.\nManipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las\nproximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8). Limitar los trasvases\nmanuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos después de\ncada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para\ncomer.\n\nD.- Recomendaciones técnicas para prevenir riesgos medioambientales\n\nPágina 3/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\nSe recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)\n7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\nA.- Medidas técnicas de almacenamiento\nB.- Condiciones generales de almacenamiento.\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n7.3 Usos específicos finales:\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este\nproducto.\n\nTª mínima: 5 ºC\nTª máxima: 30 ºC\nTiempo máximo: 18 meses"
+    },
+    {
+      "number": 8,
+      "title": "Controles de exposicion/proteccion individual",
+      "page_start": 4,
+      "page_end": 5,
+      "text": "8.1 Parámetros de control:\nSustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH):\nIdentificación Valores límite ambientales\nTolueno TLV-TWA 20 ppm\nCAS: 108-88-3 TLV-STEL\n\nDioxido de titanio TLV-TWA 10 mg/m³\nCAS: 13463-67-7 TLV-STEL\n\nAcetato de etilo TLV-TWA 150 ppm\nCAS: 141-78-6 TLV-STEL\n\nAcetato de isobutilo TLV-TWA 150 ppm\nCAS: 110-19-0 TLV-STEL\n\nCuarzo (1 % < RCS < 10 %) TLV-TWA 0,025 mg/m³\nCAS: 14808-60-7 TLV-STEL\n\n8.2 Controles técnicos apropiados:\nA.- Medidas de protección individual, como equipo de protección personal (EPP)\nDe acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de\ntrabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información\nsobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el\nfolleto informativo facilitado por el fabricante del EPP.Las indicaciones contenidas en este punto se refieren al producto puro. Las\nmedidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc.\nPara determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la\nnormativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y\n7.2.\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención\nde riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\nB.- Protección respiratoria.\nPictograma EPP Observaciones\n\nProteccion\nobligatoria del las\nvias respiratorias\nMáscara con filtros para gases y vapores Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la\nmáscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades\nde aviso se recomienda el uso de equipos aislantes.\n\nC.- Protección específica de las manos.\nPictograma EPP Observaciones\n\nProteccion\nobligatoria de la\nmanos\nGuantes de protección química El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior\nal del tiempo de uso del producto. No emplear cremas protectoras despues del\ncontacto del producto con la piel.\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de\nantemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\nPágina 4/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\nD.- Protección ocular y facial\nPictograma EPP Observaciones\n\nProteccion\nobligatoria de la cara\n\nGafas de seguridad\nLimpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del\nfabricante. Se recomienda su uso en caso de riesgo de salpicaduras.\n\nE.- Protección corporal\nPictograma EPP Observaciones\n\nProteccion\nobligatoria del\ncuerpo\nPrenda de protección frente a riesgos químicos,\nantiestática e ignífuga\nUso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones\ndel fabricante.\n\nProteccion\nobligatoria de los\npies\nCalzado de seguridad contra riesgo químico, con\npropiedades antiestáticas y resistencia al calor\nReemplazar las botas ante cualquier indicio de deterioro.\nF.- Medidas complementarias de emergencia\nMedida de emergencia Normas Medida de emergencia Normas\n\nDucha de emergencia\n\nANSI Z358-1\nISO 3864-1:2002\n\nLavaojos\n\nDIN 12 899\nISO 3864-1:2002\n\nControles de la exposición del medio ambiente:\nEn virtud de la legislación comunitaria de protección del medio ambiente se recomienda evitar el vertido tanto del producto como de\nsu envase al medio ambiente. Para información adicional ver epígrafe 7.1.D"
+    },
+    {
+      "number": 9,
+      "title": "Propiedades fisicas y quimicas",
+      "page_start": 5,
+      "page_end": 6,
+      "text": "9.1 Información de propiedades físicas y químicas básicas:\nPara completar la información ver la ficha técnica/hoja de especificaciones del producto.\nAspecto físico:\nEstado físico a 20 ºC: Líquido\nAspecto: Fluido\nColor:\n\nBlanco\nOlor: Característico\nUmbral olfativo: No relevante *\nVolatilidad:\nTemperatura de ebullición a presión atmosférica: 106 ºC\nPresión de vapor a 20 ºC: 3278 Pa\nPresión de vapor a 50 ºC: 105,68 (14,09 kPa)\nTasa de evaporación a 20 ºC: No relevante *\nCaracterización del producto:\nDensidad a 20 ºC: 1356 - 1556 kg/m³\nDensidad relativa a 20 ºC: 1,356 - 1,556\nViscosidad dinámica a 20 ºC: No relevante *\nViscosidad cinemática a 20 ºC: No relevante *\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.\n\nPágina 5/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\nViscosidad cinemática a 40 ºC: <20,5 cSt\nConcentración: No relevante *\npH: No relevante *\nDensidad de vapor a 20 ºC: No relevante *\nCoeficiente de reparto n-octanol/agua a 20 ºC: No relevante *\nSolubilidad en agua a 20 ºC: No relevante *\nPropiedad de solubilidad: No relevante *\nTemperatura de descomposición: No relevante *\nPunto de fusión/punto de congelación: No relevante *\nPropiedades explosivas: No relevante *\nPropiedades comburentes: No relevante *\nInflamabilidad:\nPunto de inflamación: 12 ºC\nInflamabilidad (sólido, gas): No relevante *\nTemperatura de auto-inflamación: 423 ºC\nLímite de inflamabilidad inferior: No determinado\nLímite de inflamabilidad superior: No determinado\nExplosividad:\nLímite inferior de explosividad: No relevante *\nLímite superior de explosividad: No relevante *\n9.2 Información adicional:\nTensión superficial a 20 ºC: No relevante *\nÍndice de refracción: No relevante *\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad."
+    },
+    {
+      "number": 10,
+      "title": "Estabilidad y reactividad",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "10.1 Reactividad:\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver\nsección 7.\n\n10.2 Estabilidad química:\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n10.3 Posibilidad de reacciones peligrosas:\nBajo las condiciones indicadas no se esperan reacciones peligrosas que puedan producir una presión o temperaturas excesivas.\n10.4 Condiciones que deben evitarse:\nAplicables para manipulación y almacenamiento a temperatura ambiente:\nChoque y fricción Contacto con el aire Calentamiento Luz Solar Humedad\nNo aplicable No aplicable Riesgo de inflamación Evitar incidencia directa No aplicable\n\n10.5 Materiales incompatibles:\nÁcidos Agua Materias comburentes Materias combustibles Otros\nEvitar ácidos fuertes No aplicable Evitar incidencia directa No aplicable Evitar alcalis o bases fuertes\n\n10.6 Productos de descomposición peligrosos:\nVer epígrafe 10.3, 10.4 y 10.5 para conocer los productos de descomposición específicamente. En dependencia de las condiciones\nde descomposición, como consecuencia de la misma pueden liberarse mezclas complejas de sustancias químicas: dióxido de\ncarbono (CO2), monóxido de carbono y otros compuestos orgánicos."
+    },
+    {
+      "number": 11,
+      "title": "Informacion toxicologica",
+      "page_start": 6,
+      "page_end": 8,
+      "text": "Página 6/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)\n11.1 Información sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:\n\nA- Ingestión (efecto agudo):\n- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver\nsección 3.\n- Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas\ny vómitos.\n\nB- Inhalación (efecto agudo):\n- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por inhalación. Para más información ver sección 3.\n- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando\nsustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.\n\nC- Contacto con la piel y los ojos (efecto agudo):\n- Contacto con la piel: Produce inflamación cutánea.\n- Contacto con los ojos: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información\nver sección 3.\n\nD- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):\n- Carcinogenicidad: No se cumplen criterios de clasificación. Para más información sobre posibles efectos específicos sobre la\nsalud ver sección 2.\nIARC: Tolueno (3); Cuarzo (1 % < RCS < 10 %) (1); Dioxido de titanio (2B)\n- Mutagenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para más información ver sección 3.\n- Toxicidad para la reproducción: No se cumplen criterios de clasificación.\n\nE- Efectos de sensibilización:\n- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciónes 2, 3 y 15.\n- Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para más información ver sección 3.\n\nF- Toxicidad específica en determinados órganos (STOT)-exposición única:\nUna exposición a altas concentraciones pueden motivar depresión del sistema nervioso central ocasionando dolor de cabeza,\nmareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.\n\nG- Toxicidad específica en determinados órganos (STOT)-exposición repetida:\n- Toxicidad específica en determinados órganos (STOT)-exposición repetida: Efectos nocivos para la salud en caso de\ningestión, contacto con la piel o inhalación de forma repetitiva, produciendo depresión del sistema nervioso central ocasionando\ndolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.\n- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas\ncomo peligrosas por este efecto. Para más información ver sección 3.\n\nH- Peligro por aspiración:\nLa ingesta de una dosis considerable puede producir daño pulmonar.\nInformación adicional:\nCAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay\nsuficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres\nhumanos.\nLa monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de\nproductos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC,\nVol. 93, 2010).\nEl lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y\nnivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.\n\nInformación toxicológica específica de las sustancias:\n\nPágina 7/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)\nIdentificación Toxicidad aguda Género\nTolueno DL50 oral 5580 mg/kg Rata\nCAS: 108-88-3 DL50 cutánea 12124 mg/kg Rata\nCL50 inhalación 28,1 mg/L (4 h) Rata\n\nDioxido de titanio DL50 oral 10000 mg/kg Rata\nCAS: 13463-67-7 DL50 cutánea 10000 mg/kg Conejo\nCL50 inhalación No relevante\n\nAcetato de etilo DL50 oral 4100 mg/kg Rata\nCAS: 141-78-6 DL50 cutánea 20000 mg/kg Conejo\nCL50 inhalación No relevante\n\nAcetato de isobutilo DL50 oral 13413 mg/kg Rata\nCAS: 110-19-0 DL50 cutánea 17400 mg/kg Conejo\nCL50 inhalación No relevante"
+    },
+    {
+      "number": 12,
+      "title": "Informacion ecologica",
+      "page_start": 8,
+      "page_end": 9,
+      "text": "No se disponen de datos experimentales de la mezcla en sí misma relativos a las propiedades ecotoxicológicas.\n12.1 Toxicidad:\nIdentificación Toxicidad aguda Especie Género\nTolueno CL50 13 mg/L (96 h) Carassius auratus Pez\nCAS: 108-88-3 CE50 11,5 mg/L (48 h) Daphnia magna Crustáceo\nCE50 125 mg/L (48 h) Scenedesmus subspicatus Alga\n\nAcetato de etilo CL50 230 mg/L (96 h) Pimephales promelas Pez\nCAS: 141-78-6 CE50 717 mg/L (48 h) Daphnia magna Crustáceo\nCE50 3300 mg/L (48 h) Scenedesmus subspicatus Alga\n\nAcetato de isobutilo CL50 120 mg/L (48 h) Leuciscus idus Pez\nCAS: 110-19-0 CE50 168 mg/L (24 h) Daphnia magna Crustáceo\nCE50 80 mg/L (8 h) Scenedesmus quadricauda Alga\n\n12.2 Persistencia y degradabilidad:\nIdentificación Degradabilidad Biodegradabilidad\nTolueno DBO5 2.5 g O2/g Concentración 100 mg/L\nCAS: 108-88-3 DQO No relevante Periodo 14 días\nDBO5/DQO No relevante % Biodegradado 100 %\n\nAcetato de etilo DBO5 1.36 g O2/g Concentración 100 mg/L\nCAS: 141-78-6 DQO 1.69 g O2/g Periodo 14 días\nDBO5/DQO 0.81 % Biodegradado 83 %\n\nAcetato de isobutilo DBO5 No relevante Concentración No relevante\nCAS: 110-19-0 DQO No relevante Periodo 20 días\nDBO5/DQO No relevante % Biodegradado 81 %\n\n12.3 Potencial de bioacumulación:\nIdentificación Potencial de bioacumulación\nTolueno BCF 13\nCAS: 108-88-3 Log POW 2,73\nPotencial Bajo\n\nAcetato de etilo BCF 30\nCAS: 141-78-6 Log POW 0,73\nPotencial Moderado\n\nAcetato de isobutilo BCF 10\nCAS: 110-19-0 Log POW 1,78\nPotencial Bajo\n\n12.4 Movilidad en el suelo:\n\nPágina 8/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 12: INFORMACIÓN ECOTOXICOLÓGICA (continúa)\nIdentificación Absorción/Desorción Volatilidad\nTolueno Koc 178 Henry 672,8 Pa·m³/mol\nCAS: 108-88-3 Conclusión Moderado Suelo seco Sí\nTensión superficial 2,793E-2 N/m (25 ºC) Suelo húmedo Sí\n\nAcetato de etilo Koc 59 Henry 13,58 Pa·m³/mol\nCAS: 141-78-6 Conclusión Muy Alto Suelo seco Sí\nTensión superficial 2,324E-2 N/m (25 ºC) Suelo húmedo Sí\n\nAcetato de isobutilo Koc No relevante Henry No relevante\nCAS: 110-19-0 Conclusión No relevante Suelo seco No relevante\nTensión superficial 2,297E-2 N/m (25 ºC) Suelo húmedo No relevante\n\n12.5 Resultados de la valoración PBT y mPmB:\nNo aplicable\n12.6 Otros efectos adversos:\nNo descritos"
+    },
+    {
+      "number": 13,
+      "title": "Consideraciones relativas a la eliminacion",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "13.1 Métodos de eliminación:\nGestión del residuo (eliminación y valorización):\nConsultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado en\ncontacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo\nno peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2.\n\nDisposiciones legislativas relacionadas con la gestión de residuos:\nLegislación relacionada con la gestión de residuos:\nDecreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos\ngenerados en el marco de la gestión integral"
+    },
+    {
+      "number": 14,
+      "title": "Informacion relativa al transporte",
+      "page_start": 9,
+      "page_end": 10,
+      "text": "Transporte terrestre de mercancías peligrosas:\nEn aplicación a la norma técnica colombiana 1692:\n\n14.6\n14.4\n14.3\n14.2\n14.1\nver epígrafe 9 Propiedades físico-químicas:\nII Grupo de embalaje/envasado si\nse aplica:\n3 Etiquetas:\n3 Clase(s) relativas al transporte:\nPINTURA Designación oficial de\ntransporte de las Naciones\nUnidas:\nNúmero ONU: UN1263\nRiesgos ambientales: No 14.5\nTransporte a granel con\narreglo al anexo II de MARPOL\n73/78 y al Código IBC:\nNo relevante 14.7\nPrecauciones especiales para el usuario\n\nTransporte marítimo de mercancías peligrosas:\nEn aplicación al IMDG 38-16:\n\nPágina 9/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n14.6\n14.4\n14.3\n14.2\n14.1\nver epígrafe 9 Propiedades físico-químicas:\nII Grupo de embalaje/envasado si\nse aplica:\n3 Etiquetas:\n3 Clase(s) relativas al transporte:\nPINTURA Designación oficial de\ntransporte de las Naciones\nUnidas:\nNúmero ONU: UN1263\nRiesgos ambientales: No 14.5\nTransporte a granel con\narreglo al anexo II de MARPOL\n73/78 y al Código IBC:\nNo relevante 14.7\nPrecauciones especiales para el usuario\n\nTransporte aéreo de mercancías peligrosas:\nEn aplicación al IATA/OACI 2018:\n\n14.6\n14.4\n14.3\n14.2\n14.1\nver epígrafe 9 Propiedades físico-químicas:\nII Grupo de embalaje/envasado si\nse aplica:\n3 Etiquetas:\n3 Clase(s) relativas al transporte:\nPINTURA Designación oficial de\ntransporte de las Naciones\nUnidas:\nNúmero ONU: UN1263\nRiesgos ambientales: No 14.5\nTransporte a granel con\narreglo al anexo II de MARPOL\n73/78 y al Código IBC:\nNo relevante 14.7\nPrecauciones especiales para el usuario"
+    },
+    {
+      "number": 15,
+      "title": "Informacion reglamentaria",
+      "page_start": 10,
+      "page_end": 11,
+      "text": "NTP (National Toxicology Program): No relevante\nDisposiciones particulares en materia de protección de las personas o el medio ambiente:\nSe recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una\nevaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para\nel manejo, utilización, almacenamiento y eliminación de este producto.\n\nOtras legislaciones:\n15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:\n\nPágina 10/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN (continúa)\nResolución 0312 de 2019 - por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo\nSG-SST.\nCONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.\nDecreto 1079 de 2015 - decreto único reglamentario del sector transporte\nNTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado\nNTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración\nDecreto número 4741 de 2005\nDecreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado\nDecreto 321 de 1999 - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas.\nNTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos\nNTC 4702 - 2 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 2. Gases\nNTC 4702 - 3 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 3. Líquidos Inflamables\nNTC 4702 - 4 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 4. Sólidos Inflamables, Sustancias que\npresentan riesgo de combustión espontánea, sustancias que en contacto con el agua desprenden gases inflamables.\nNTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos\nOrgánicos\nNTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas\nNTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas\nNTC 4702 - 9 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 9. Sustancias Peligrosas varias"
+    },
+    {
+      "number": 16,
+      "title": "Otra informacion",
+      "page_start": 11,
+      "page_end": 12,
+      "text": "Legislación aplicable a fichas de datos de seguridad:\nEsta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010\nTextos de las frases legislativas contempladas en la sección 2:\nH315: Provoca irritación cutánea\nH336: Puede provocar somnolencia o vértigo\nH304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias\nH225: Líquido y vapores muy inflamables\n\nTextos de las frases legislativas contempladas en la sección 3:\nLas frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales\nque aparecen en la sección 3\n\nSGA:\nAcuatico agudo. 3: H402 - Nocivo para los organismos acuáticos\nIrrit. Cut. 2: H315 - Provoca irritación cutánea\nIrrit. oc. 2: H319 - Provoca irritación ocular grave\nLiq. Infl. 2: H225 - Líquido y vapores muy inflamables\nSTOT unica 3: H336 - Puede provocar somnolencia o vértigo\nTox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión\nTox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias\n\nConsejos relativos a la formación:\nSe recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la\nfinalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del\nproducto.\n\nPrincipales fuentes bibliográficas:\nInstituto Colombiano de Normas Técnicas y Certificación (ICONTEC)\nIARC:Agencia Internacional para la Investigación sobre Cáncer\nOSHA:Occupational Safety and Health Administration, U.S Department of Labor\nNTP:National Toxicology Program\nTOXNET: Toxicology data network\n\nAbreviaturas y acrónimos:\n\nPágina 11/12 Emisión: 28/01/2019 Versión: 1\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n10017277-10015687\n\nFicha de datos de seguridad\nsegún Decreto 1496 de 2018\nSECCIÓN 16: OTRAS INFORMACIONES (continúa)\n\nIMDG: Código Marítimo Internacional de Mercancías Peligrosas\nIATA: Asociación Internacional de Transporte Aéreo\nOACI: Organización de Aviación Civil Internacional\nDQO:Demanda Quimica de oxígeno\nDBO5:Demanda biológica de oxígeno a los 5 días\nBCF: factor de bioconcentración\nDL50: dosis letal 50\nCL50: concentración letal 50\nEC50: concentración efectiva 50\nLog POW: logaritmo coeficiente partición octanol-agua\nKoc: coeficiente de partición del carbono orgánico\n\nLa información contenida en esta ficha de datos de segurid ad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantiz ar la\nexactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trat a simplemente de una descripción en cuanto a los requerimientos\nen materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nues tro conocimiento y control, siendo siempre responsabilidad última\ndel usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento , uso y eliminación de productos químicos. La información de\nesta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\nPágina 12/12 Emisión: 28/01/2019 Versión: 1\nFIN DE LA FICHA DE DATOS DE SEGURIDAD"
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl01",
+      "page": 1,
+      "section_number": 1,
+      "bbox": [
+        36.45090877648556,
+        100.4000244140625,
+        558.9437761306763,
+        276.04998779296875
+      ],
+      "markdown": "|Col1|SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO|\n|---|---|\n|**1.1**<br>**Identificador SGA del producto:**<br>PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722<br>10017277-10015687<br>**1.2**<br>**Uso recomendado del producto químico y restricciones:**<br>Usos pertinentes: Pintura para señalización de tráfico. Uso exclusivo usuario profesional.<br>Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3<br>**1.3**<br>**Datos sobre el proveedor:**<br>Pintuco<br>Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1<br>054040 Rionegro - Antioquia - Colombia<br>Tfno.: 57 4 569 81 00<br>contacto@pintuco.com<br>http://www.pintuco.com<br>**1.4**<br>**Número de teléfono para emergencias:**<br>57 4 561 22 23|**1.1**<br>**Identificador SGA del producto:**<br>PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722<br>10017277-10015687<br>**1.2**<br>**Uso recomendado del producto químico y restricciones:**<br>Usos pertinentes: Pintura para señalización de tráfico. Uso exclusivo usuario profesional.<br>Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3<br>**1.3**<br>**Datos sobre el proveedor:**<br>Pintuco<br>Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1<br>054040 Rionegro - Antioquia - Colombia<br>Tfno.: 57 4 569 81 00<br>contacto@pintuco.com<br>http://www.pintuco.com<br>**1.4**<br>**Número de teléfono para emergencias:**<br>57 4 561 22 23|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl01` extraida de la pagina 1, asociada a la Seccion 1 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl02",
+      "page": 1,
+      "section_number": 2,
+      "bbox": [
+        36.45090877648556,
+        288.2300109863281,
+        558.9437761306763,
+        764.7359924316406
+      ],
+      "markdown": "|Col1|SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|\n|---|---|\n|**2.1**<br>**Clasificación de la sustancia o de la mezcla:**<br>**SGA:**<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Liq. Infl. 2: Líquidos inflamables, Categoría 2, H225<br>STOT unica 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304<br>**2.2**<br>**Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:**<br>**SGA:**<br>**Peligro**<br>**Indicaciones de peligro:**<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables<br>STOT unica 3: H336 - Puede provocar somnolencia o vértigo<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>**Consejos de prudencia:**<br>P201: Procurarse las instrucciones antes del uso<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente<br>**Sustancias que contribuyen a la clasificación**<br>Acetato de etilo<br>**2.3**<br>**Otros peligros que no conducen a una clasificación:**<br>No relevante|**2.1**<br>**Clasificación de la sustancia o de la mezcla:**<br>**SGA:**<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Liq. Infl. 2: Líquidos inflamables, Categoría 2, H225<br>STOT unica 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304<br>**2.2**<br>**Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:**<br>**SGA:**<br>**Peligro**<br>**Indicaciones de peligro:**<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables<br>STOT unica 3: H336 - Puede provocar somnolencia o vértigo<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>**Consejos de prudencia:**<br>P201: Procurarse las instrucciones antes del uso<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente<br>**Sustancias que contribuyen a la clasificación**<br>Acetato de etilo<br>**2.3**<br>**Otros peligros que no conducen a una clasificación:**<br>No relevante|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl02` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl03",
+      "page": 1,
+      "section_number": 2,
+      "bbox": [
+        36.45090877648556,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 1/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_tbl03` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl01",
+      "page": 2,
+      "section_number": 3,
+      "bbox": [
+        36.46571395510719,
+        100.4000244140625,
+        558.9517323563739,
+        370.96998596191406
+      ],
+      "markdown": "|Col1|SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES|\n|---|---|\n|**3.1**<br>**Sustancias:**<br>No aplicable<br>**3.2**<br>**Mezclas:**<br>**Descripción química:**Mezcla a base de productos químicos<br>**Componentes:**<br>De acuerdo al Decreto 1496 de 2018, el producto presenta:<br>Identificación<br>Nombre químico/clasificación<br>Concentración<br>CAS:<br>108-88-3<br>**Tolueno**<br>**10 - <25 %**<br>CAS:13463-67-7<br>**Dioxido de titanio**<br>**2.5 - <10 %**<br>CAS:<br>141-78-6<br>**Acetato de etilo**<br>**2.5 - <10 %**<br>CAS: 110-19-0<br>**Acetato de isobutilo**<br>**1 - <2.5 %**<br>CAS:14808-60-7<br>**Cuarzo (1 % < RCS < 10 %)**<br>**<1 %**<br>Para ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto<br>Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de<br>clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.|**3.1**<br>**Sustancias:**<br>No aplicable<br>**3.2**<br>**Mezclas:**<br>**Descripción química:**Mezcla a base de productos químicos<br>**Componentes:**<br>De acuerdo al Decreto 1496 de 2018, el producto presenta:<br>Identificación<br>Nombre químico/clasificación<br>Concentración<br>CAS:<br>108-88-3<br>**Tolueno**<br>**10 - <25 %**<br>CAS:13463-67-7<br>**Dioxido de titanio**<br>**2.5 - <10 %**<br>CAS:<br>141-78-6<br>**Acetato de etilo**<br>**2.5 - <10 %**<br>CAS: 110-19-0<br>**Acetato de isobutilo**<br>**1 - <2.5 %**<br>CAS:14808-60-7<br>**Cuarzo (1 % < RCS < 10 %)**<br>**<1 %**<br>Para ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto<br>Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de<br>clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl01` extraida de la pagina 2, asociada a la Seccion 3 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl02",
+      "page": 2,
+      "section_number": 3,
+      "bbox": [
+        74.70400015513103,
+        207.55999755859375,
+        547.6085466657366,
+        336.46998596191406
+      ],
+      "markdown": "|Identificación|Nombre químico/clasificación|Concentración|\n|---|---|---|\n|CAS:<br>108-88-3|**Tolueno**|**10 - <25 %**|\n|CAS:13463-67-7|**Dioxido de titanio**|**2.5 - <10 %**|\n|CAS:<br>141-78-6|**Acetato de etilo**|**2.5 - <10 %**|\n|CAS: 110-19-0|**Acetato de isobutilo**|**1 - <2.5 %**|\n|CAS:14808-60-7|**Cuarzo (1 % < RCS < 10 %)**|**<1 %**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl02` extraida de la pagina 2, asociada a la Seccion 3 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl03",
+      "page": 2,
+      "section_number": 4,
+      "bbox": [
+        36.46571395510719,
+        383.2699966430664,
+        558.9517323563739,
+        715.4199829101562
+      ],
+      "markdown": "|Col1|SECCIÓN 4: PRIMEROS AUXILIOS|\n|---|---|\n|**4.1**<br>**Descripción de los primeros auxilios necesarios:**<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de<br>duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto.<br>**Por inhalación:**<br>Sacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada<br>cardiorespiratoria, se aplicarán técnicas de respiración artificial (respiración boca a boca, masaje cardíaco, suministro de<br>oxígeno,etc.) requiriendo asistencia médica inmediata.<br>**Por contacto con la piel:**<br>Quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En<br>caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a<br>que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas<br>nunca deben reventarse ya que aumentaría el riesgo de infección.<br>**Por contacto con los ojos:**<br>Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre<br>los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos,<br>de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más<br>rápidamente posible con la FDS del producto.<br>**Por ingestión/aspiración:**<br>Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca<br>mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por<br>vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en<br>la ingestión. Mantener al afectado en reposo.<br>**4.2**<br>**Síntomas/efectos más importantes, agudos o retardados:**<br>Los efectos agudos y retardados son los indicados en las secciones 2 y 11.<br>**4.3**<br>**Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial:**<br>No relevante|**4.1**<br>**Descripción de los primeros auxilios necesarios:**<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de<br>duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto.<br>**Por inhalación:**<br>Sacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada<br>cardiorespiratoria, se aplicarán técnicas de respiración artificial (respiración boca a boca, masaje cardíaco, suministro de<br>oxígeno,etc.) requiriendo asistencia médica inmediata.<br>**Por contacto con la piel:**<br>Quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En<br>caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a<br>que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas<br>nunca deben reventarse ya que aumentaría el riesgo de infección.<br>**Por contacto con los ojos:**<br>Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre<br>los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos,<br>de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más<br>rápidamente posible con la FDS del producto.<br>**Por ingestión/aspiración:**<br>Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca<br>mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por<br>vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en<br>la ingestión. Mantener al afectado en reposo.<br>**4.2**<br>**Síntomas/efectos más importantes, agudos o retardados:**<br>Los efectos agudos y retardados son los indicados en las secciones 2 y 11.<br>**4.3**<br>**Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial:**<br>No relevante|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl03` extraida de la pagina 2, asociada a la Seccion 4 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl04",
+      "page": 2,
+      "section_number": 5,
+      "bbox": [
+        36.46571395510719,
+        727.718017578125,
+        558.9517323563739,
+        767.3759765625
+      ],
+      "markdown": "|Col1|SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS|\n|---|---|\n|**5.1**<br>**Medios de extinción apropiados:**|**5.1**<br>**Medios de extinción apropiados:**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl04` extraida de la pagina 2, asociada a la Seccion 5 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl05",
+      "page": 2,
+      "section_number": 5,
+      "bbox": [
+        36.46571395510719,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 2/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_tbl05` extraida de la pagina 2, asociada a la Seccion 5 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl01",
+      "page": 3,
+      "section_number": 5,
+      "bbox": [
+        36.464210209093594,
+        100.4000244140625,
+        558.9335384884396,
+        279.530029296875
+      ],
+      "markdown": "|Col1|SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS (continúa)|\n|---|---|\n|Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido<br>de carbono (CO2). NO SE RECOMIENDA emplear agua a chorro como agente de extinción.<br>**5.2**<br>**Peligros específicos del producto químico:**<br>Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar<br>altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.<br>**5.3**<br>**Medidas especiales que deben tomar los equipos de lucha contra incendios:**<br>En función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración<br>autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).<br>**Disposiciones adicionales:**<br>Actuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias.<br>Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos<br>susceptibles a inflamación, explosión como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en<br>la extinción del incendio al medio acuático.|Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido<br>de carbono (CO2). NO SE RECOMIENDA emplear agua a chorro como agente de extinción.<br>**5.2**<br>**Peligros específicos del producto químico:**<br>Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar<br>altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.<br>**5.3**<br>**Medidas especiales que deben tomar los equipos de lucha contra incendios:**<br>En función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración<br>autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).<br>**Disposiciones adicionales:**<br>Actuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias.<br>Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos<br>susceptibles a inflamación, explosión como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en<br>la extinción del incendio al medio acuático.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl01` extraida de la pagina 3, asociada a la Seccion 5 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl02",
+      "page": 3,
+      "section_number": 6,
+      "bbox": [
+        36.464210209093594,
+        291.71002197265625,
+        558.9335384884396,
+        502.27000427246094
+      ],
+      "markdown": "|Col1|SECCIÓN 6: MEDIDAS QUE DEBEN TOMARSE EN CASO DE VERTIDO ACCIDENTAL|\n|---|---|\n|**6.1**<br>**Precauciones personales, equipo protector y procedimiento de emergencia:**<br>Aislar las fugas siempre y cuando no suponga un riesgo adicional para las personas que desempeñen esta función. Evacuar la zona<br>y mantener a las personas sin protección alejadas. Ante el contacto potencial con el producto derramado se hace obligatorio el uso<br>de elementos de protección personal (ver sección 8). Evitar de manera prioritaria la formación de mezclas vapor-aire inflamables, ya<br>sea mediante ventilación o el uso de un agente inertizante. Suprimir cualquier fuente de ignición. Eliminar las cargas electroestáticas<br>mediante la interconexión de todas las superficies conductoras sobre las que se puede formar electricidad estática, y estando a su<br>vez el conjunto conectado a tierra.<br>**6.2**<br>**Precauciones relativas al medio ambiente:**<br>Producto no clasificado como peligroso para el medioambiente. Mantener el producto alejado de los desagües y de las aguas<br>superficiales y subterráneas.<br>**6.3**<br>**Métodos y materiales para la contención y limpieza de vertidos:**<br>Se recomienda:<br>Absorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes<br>combustibles. Para cualquier consideración relativa a la eliminación consultar la sección 13.<br>**6.4**<br>**Referencias a otras secciones:**<br>Ver secciones 8 y 13.|**6.1**<br>**Precauciones personales, equipo protector y procedimiento de emergencia:**<br>Aislar las fugas siempre y cuando no suponga un riesgo adicional para las personas que desempeñen esta función. Evacuar la zona<br>y mantener a las personas sin protección alejadas. Ante el contacto potencial con el producto derramado se hace obligatorio el uso<br>de elementos de protección personal (ver sección 8). Evitar de manera prioritaria la formación de mezclas vapor-aire inflamables, ya<br>sea mediante ventilación o el uso de un agente inertizante. Suprimir cualquier fuente de ignición. Eliminar las cargas electroestáticas<br>mediante la interconexión de todas las superficies conductoras sobre las que se puede formar electricidad estática, y estando a su<br>vez el conjunto conectado a tierra.<br>**6.2**<br>**Precauciones relativas al medio ambiente:**<br>Producto no clasificado como peligroso para el medioambiente. Mantener el producto alejado de los desagües y de las aguas<br>superficiales y subterráneas.<br>**6.3**<br>**Métodos y materiales para la contención y limpieza de vertidos:**<br>Se recomienda:<br>Absorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes<br>combustibles. Para cualquier consideración relativa a la eliminación consultar la sección 13.<br>**6.4**<br>**Referencias a otras secciones:**<br>Ver secciones 8 y 13.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl02` extraida de la pagina 3, asociada a la Seccion 6 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl03",
+      "page": 3,
+      "section_number": 7,
+      "bbox": [
+        36.464210209093594,
+        514.4499969482422,
+        558.9335384884396,
+        767.6159973144531
+      ],
+      "markdown": "|Col1|SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO|\n|---|---|\n|**7.1**<br>**Precauciones que se deben tomar para garantizar una manipulación segura:**<br>A.- Precauciones generales<br>Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente<br>cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el<br>recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.<br>B.- Recomendaciones técnicas para la prevención de incendios y explosiones.<br>Trasvasar en lugares bien ventilados, preferentemente mediante extracción localizada. Controlar totalmente los focos de ignición<br>(teléfonos móviles, chispas,…) y ventilar en las operaciones de limpieza. Evitar la existencia de atmósferas peligrosas en el<br>interior de recipientes, aplicando en lo posible sistemas de inertización. Trasvasar a velocidades lentas para evitar la generación<br>de cargas electroestáticas. Ante la posibilidad de existencia de cargas electroestáticas: asegurar una perfecta conexión<br>equipotencial, utilizar siempre tomas de tierras, no emplear ropa de trabajo de fibras acrílicas, empleando preferiblemente ropa de<br>algodón y calzado conductor. Cumplir con los requisitos esenciales de seguridad para equipos  y con las disposiciones mínimas<br>para la protección de la seguridad y salud de los trabajadores. Consultar la sección 10 sobre condiciones y materias que deben<br>evitarse.<br>C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.<br>Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las<br>proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8). Limitar los trasvases<br>manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos después de<br>cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para<br>comer.<br>D.- Recomendaciones técnicas para prevenir riesgos medioambientales|**7.1**<br>**Precauciones que se deben tomar para garantizar una manipulación segura:**<br>A.- Precauciones generales<br>Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente<br>cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el<br>recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.<br>B.- Recomendaciones técnicas para la prevención de incendios y explosiones.<br>Trasvasar en lugares bien ventilados, preferentemente mediante extracción localizada. Controlar totalmente los focos de ignición<br>(teléfonos móviles, chispas,…) y ventilar en las operaciones de limpieza. Evitar la existencia de atmósferas peligrosas en el<br>interior de recipientes, aplicando en lo posible sistemas de inertización. Trasvasar a velocidades lentas para evitar la generación<br>de cargas electroestáticas. Ante la posibilidad de existencia de cargas electroestáticas: asegurar una perfecta conexión<br>equipotencial, utilizar siempre tomas de tierras, no emplear ropa de trabajo de fibras acrílicas, empleando preferiblemente ropa de<br>algodón y calzado conductor. Cumplir con los requisitos esenciales de seguridad para equipos  y con las disposiciones mínimas<br>para la protección de la seguridad y salud de los trabajadores. Consultar la sección 10 sobre condiciones y materias que deben<br>evitarse.<br>C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.<br>Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las<br>proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8). Limitar los trasvases<br>manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos después de<br>cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para<br>comer.<br>D.- Recomendaciones técnicas para prevenir riesgos medioambientales|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl03` extraida de la pagina 3, asociada a la Seccion 7 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl04",
+      "page": 3,
+      "section_number": 8,
+      "bbox": [
+        36.464210209093594,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 3/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_tbl04` extraida de la pagina 3, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl01",
+      "page": 4,
+      "section_number": 7,
+      "bbox": [
+        36.3850003083547,
+        100.4000244140625,
+        559.0344829153507,
+        280.6099853515625
+      ],
+      "markdown": "|Col1|SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)|\n|---|---|\n|Se recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)<br>**7.2**<br>**Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:**<br>A.- Medidas técnicas de almacenamiento<br>B.- Condiciones generales de almacenamiento.<br>Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5<br>**7.3**<br>**Usos específicos finales:**<br>Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este<br>producto.<br>Tª mínima:<br>5 ºC<br>Tª máxima:<br>30 ºC<br>Tiempo máximo:<br>18 meses|Se recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)<br>**7.2**<br>**Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:**<br>A.- Medidas técnicas de almacenamiento<br>B.- Condiciones generales de almacenamiento.<br>Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5<br>**7.3**<br>**Usos específicos finales:**<br>Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este<br>producto.<br>Tª mínima:<br>5 ºC<br>Tª máxima:<br>30 ºC<br>Tiempo máximo:<br>18 meses|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl01` extraida de la pagina 4, asociada a la Seccion 7 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl02",
+      "page": 4,
+      "section_number": 8,
+      "bbox": [
+        36.3850003083547,
+        292.7900085449219,
+        559.0344829153507,
+        774.3359985351562
+      ],
+      "markdown": "|Col1|SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL|\n|---|---|\n|**8.1**<br>**Parámetros de control:**<br>Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH):<br>Identificación<br>Valores límite ambientales<br>Tolueno<br>TLV-TWA<br>20 ppm<br>CAS: 108-88-3<br>TLV-STEL<br>Dioxido de titanio<br>TLV-TWA<br>10 mg/m³<br>CAS: 13463-67-7<br>TLV-STEL<br>Acetato de etilo<br>TLV-TWA<br>150ppm <br>CAS: 141-78-6<br>TLV-STEL<br>Acetato de isobutilo<br>TLV-TWA<br>150 ppm<br>CAS: 110-19-0<br>TLV-STEL<br>Cuarzo (1 % < RCS < 10 %)<br>TLV-TWA<br>0,025 mg/m³<br>CAS: 14808-60-7<br>TLV-STEL<br>**8.2**<br>**Controles técnicos apropiados:**<br>A.- Medidas de protección individual, como equipo de protección personal (EPP)<br>De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de<br>trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información<br>sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el<br>folleto informativo facilitado por el fabricante del EPP.Las indicaciones contenidas en este punto se refieren al producto puro. Las<br>medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc.<br>Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la<br>normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y<br>7.2.<br>Toda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención<br>de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.<br>B.- Protección respiratoria.<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria del las<br>vias respiratorias<br>Máscara con filtros para gases y vapores<br>Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la<br>máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades<br>de aviso se recomienda el uso de equipos aislantes.<br>C.- Protección específica de las manos.<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria de la<br>manos<br>Guantes de protección química<br>El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras despues del<br>contacto del producto con la piel.<br>Dado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de<br>antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.|**8.1**<br>**Parámetros de control:**<br>Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH):<br>Identificación<br>Valores límite ambientales<br>Tolueno<br>TLV-TWA<br>20 ppm<br>CAS: 108-88-3<br>TLV-STEL<br>Dioxido de titanio<br>TLV-TWA<br>10 mg/m³<br>CAS: 13463-67-7<br>TLV-STEL<br>Acetato de etilo<br>TLV-TWA<br>150ppm <br>CAS: 141-78-6<br>TLV-STEL<br>Acetato de isobutilo<br>TLV-TWA<br>150 ppm<br>CAS: 110-19-0<br>TLV-STEL<br>Cuarzo (1 % < RCS < 10 %)<br>TLV-TWA<br>0,025 mg/m³<br>CAS: 14808-60-7<br>TLV-STEL<br>**8.2**<br>**Controles técnicos apropiados:**<br>A.- Medidas de protección individual, como equipo de protección personal (EPP)<br>De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de<br>trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información<br>sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el<br>folleto informativo facilitado por el fabricante del EPP.Las indicaciones contenidas en este punto se refieren al producto puro. Las<br>medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc.<br>Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la<br>normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y<br>7.2.<br>Toda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención<br>de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.<br>B.- Protección respiratoria.<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria del las<br>vias respiratorias<br>Máscara con filtros para gases y vapores<br>Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la<br>máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades<br>de aviso se recomienda el uso de equipos aislantes.<br>C.- Protección específica de las manos.<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria de la<br>manos<br>Guantes de protección química<br>El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras despues del<br>contacto del producto con la piel.<br>Dado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de<br>antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl02` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl03",
+      "page": 4,
+      "section_number": 8,
+      "bbox": [
+        73.64775037765503,
+        343.3099899291992,
+        548.1450241752293,
+        449.1619812011719
+      ],
+      "markdown": "|Identificación|Valores límite ambientales|Col3|Col4|\n|---|---|---|---|\n|Tolueno<br>CAS: 108-88-3|TLV-TWA|20 ppm||\n|Tolueno<br>CAS: 108-88-3|TLV-STEL|||\n|Dioxido de titanio<br>CAS: 13463-67-7|TLV-TWA||10 mg/m³|\n|Dioxido de titanio<br>CAS: 13463-67-7|TLV-STEL|||\n|Acetato de etilo<br>CAS: 141-78-6|TLV-TWA|150ppm||\n|Acetato de etilo<br>CAS: 141-78-6|TLV-STEL|||\n|Acetato de isobutilo<br>CAS: 110-19-0|TLV-TWA|150 ppm||\n|Acetato de isobutilo<br>CAS: 110-19-0|TLV-STEL|||\n|Cuarzo (1 % < RCS < 10 %)<br>CAS: 14808-60-7|TLV-TWA||0,025 mg/m³|\n|Cuarzo (1 % < RCS < 10 %)<br>CAS: 14808-60-7|TLV-STEL|||",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl03` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl04",
+      "page": 4,
+      "section_number": 8,
+      "bbox": [
+        87.6640027364095,
+        590.4099731445312,
+        548.1450241752293,
+        662.2599894205729
+      ],
+      "markdown": "|Pictograma|EPP|Observaciones|\n|---|---|---|\n|Proteccion<br>obligatoria del las<br>vias respiratorias|Máscara con filtros para gases y vapores|Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la<br>máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades<br>de aviso se recomienda el uso de equipos aislantes.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl04` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl05",
+      "page": 4,
+      "section_number": 8,
+      "bbox": [
+        87.6640027364095,
+        677.4399871826172,
+        548.1450241752293,
+        749.2559814453125
+      ],
+      "markdown": "|Pictograma|EPP|Observaciones|\n|---|---|---|\n|Proteccion<br>obligatoria de la<br>manos|Guantes de protección química|El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras despues del<br>contacto del producto con la piel.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl05` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl06",
+      "page": 4,
+      "section_number": 8,
+      "bbox": [
+        36.3850003083547,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 4/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_tbl06` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl01",
+      "page": 5,
+      "section_number": 8,
+      "bbox": [
+        36.45714251200358,
+        100.4000244140625,
+        558.919540777439,
+        461.7100067138672
+      ],
+      "markdown": "|Col1|SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)|\n|---|---|\n|D.- Protección ocular y facial<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria de la cara<br>Gafas de seguridad<br>Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.<br>E.- Protección corporal<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria del<br>cuerpo<br>Prenda de protección frente a riesgos químicos,<br>antiestática e ignífuga<br>Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones<br>del fabricante.<br>Proteccion<br>obligatoria de los<br>pies<br>Calzado de seguridad contra riesgo químico, con<br>propiedades antiestáticas y resistencia al calor<br>Reemplazar las botas ante cualquier indicio de deterioro.<br>F.- Medidas complementarias de emergencia<br>Medida de emergencia<br>Normas<br>Medida de emergencia<br>Normas<br>Ducha de emergencia<br>ANSI Z358-1<br>ISO 3864-1:2002<br>Lavaojos<br>DIN 12 899<br>ISO 3864-1:2002<br>**Controles de la exposición del medio ambiente:**<br>En virtud de la legislación comunitaria de protección del medio ambiente se recomienda evitar el vertido tanto del producto como de<br>su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D|D.- Protección ocular y facial<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria de la cara<br>Gafas de seguridad<br>Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.<br>E.- Protección corporal<br>Pictograma<br>EPP<br>Observaciones<br>Proteccion<br>obligatoria del<br>cuerpo<br>Prenda de protección frente a riesgos químicos,<br>antiestática e ignífuga<br>Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones<br>del fabricante.<br>Proteccion<br>obligatoria de los<br>pies<br>Calzado de seguridad contra riesgo químico, con<br>propiedades antiestáticas y resistencia al calor<br>Reemplazar las botas ante cualquier indicio de deterioro.<br>F.- Medidas complementarias de emergencia<br>Medida de emergencia<br>Normas<br>Medida de emergencia<br>Normas<br>Ducha de emergencia<br>ANSI Z358-1<br>ISO 3864-1:2002<br>Lavaojos<br>DIN 12 899<br>ISO 3864-1:2002<br>**Controles de la exposición del medio ambiente:**<br>En virtud de la legislación comunitaria de protección del medio ambiente se recomienda evitar el vertido tanto del producto como de<br>su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl01` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl02",
+      "page": 5,
+      "section_number": 8,
+      "bbox": [
+        87.78189689234684,
+        136.6400146484375,
+        547.8221413748605,
+        201.46000162760416
+      ],
+      "markdown": "|Pictograma|EPP|Observaciones|\n|---|---|---|\n|Proteccion<br>obligatoria de la cara|Gafas de seguridad|Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl02` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl03",
+      "page": 5,
+      "section_number": 8,
+      "bbox": [
+        87.78189689234684,
+        216.56002807617188,
+        547.8221413748605,
+        347.1299997965495
+      ],
+      "markdown": "|Pictograma|EPP|Observaciones|\n|---|---|---|\n|Proteccion<br>obligatoria del<br>cuerpo|Prenda de protección frente a riesgos químicos,<br>antiestática e ignífuga|Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones<br>del fabricante.|\n|Proteccion<br>obligatoria de los<br>pies|Calzado de seguridad contra riesgo químico, con<br>propiedades antiestáticas y resistencia al calor|<br>Reemplazar las botas ante cualquier indicio de deterioro.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl03` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl04",
+      "page": 5,
+      "section_number": 8,
+      "bbox": [
+        87.78189689234684,
+        362.26998138427734,
+        547.8221413748605,
+        418.00999450683594
+      ],
+      "markdown": "|Medida de emergencia|Normas|Medida de emergencia|Normas|\n|---|---|---|---|\n|Ducha de emergencia|ANSI Z358-1<br>ISO 3864-1:2002|Lavaojos|DIN 12 899<br>ISO 3864-1:2002|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl04` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl05",
+      "page": 5,
+      "section_number": 9,
+      "bbox": [
+        36.45714251200358,
+        473.89000701904297,
+        558.919540777439,
+        763.5360107421875
+      ],
+      "markdown": "|Col1|SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD|\n|---|---|\n|**9.1**<br>**Información de propiedades físicas y químicas básicas:**<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>**Aspecto físico:**<br>Estado físico a 20 ºC:<br>Líquido<br>Aspecto:<br>Fluido<br>Color:<br>Blanco<br>Olor:<br>Característico<br>Umbral olfativo:<br>No relevante *<br>**Volatilidad:**<br>Temperatura de ebullición a presión atmosférica:<br>106 ºC<br>Presión de vapor a 20 ºC:<br>3278 Pa<br>Presión de vapor a 50 ºC:<br>105,68  (14,09 kPa)<br>Tasa de evaporación a 20 ºC:<br>No relevante *<br>**Caracterización del producto:**<br>Densidad a 20 ºC:<br>1356 - 1556 kg/m³<br>Densidad relativa a 20 ºC:<br>1,356 - 1,556<br>Viscosidad dinámica a 20 ºC:<br>No relevante *<br>Viscosidad cinemática a 20 ºC:<br>No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.|**9.1**<br>**Información de propiedades físicas y químicas básicas:**<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>**Aspecto físico:**<br>Estado físico a 20 ºC:<br>Líquido<br>Aspecto:<br>Fluido<br>Color:<br>Blanco<br>Olor:<br>Característico<br>Umbral olfativo:<br>No relevante *<br>**Volatilidad:**<br>Temperatura de ebullición a presión atmosférica:<br>106 ºC<br>Presión de vapor a 20 ºC:<br>3278 Pa<br>Presión de vapor a 50 ºC:<br>105,68  (14,09 kPa)<br>Tasa de evaporación a 20 ºC:<br>No relevante *<br>**Caracterización del producto:**<br>Densidad a 20 ºC:<br>1356 - 1556 kg/m³<br>Densidad relativa a 20 ºC:<br>1,356 - 1,556<br>Viscosidad dinámica a 20 ºC:<br>No relevante *<br>Viscosidad cinemática a 20 ºC:<br>No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl05` extraida de la pagina 5, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl06",
+      "page": 5,
+      "section_number": 9,
+      "bbox": [
+        36.45714251200358,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 5/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_tbl06` extraida de la pagina 5, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl01",
+      "page": 6,
+      "section_number": 9,
+      "bbox": [
+        36.469090548428625,
+        100.4000244140625,
+        558.9333609121817,
+        460.86997985839844
+      ],
+      "markdown": "|Col1|SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)|\n|---|---|\n|Viscosidad cinemática a 40 ºC:<br><20,5 cSt<br>Concentración:<br>No relevante *<br>pH:<br>No relevante *<br>Densidad de vapor a 20 ºC:<br>No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC:<br>No relevante *<br>Solubilidad en agua a 20 ºC:<br>No relevante *<br>Propiedad de solubilidad:<br>No relevante *<br>Temperatura de descomposición:<br>No relevante *<br>Punto de fusión/punto de congelación:<br>No relevante *<br>Propiedades explosivas:<br>No relevante *<br>Propiedades comburentes:<br>No relevante *<br>**Inflamabilidad:**<br>Punto de inflamación:<br>12 ºC<br>Inflamabilidad (sólido, gas):<br>No relevante *<br>Temperatura de auto-inflamación:<br>423 ºC<br>Límite de inflamabilidad inferior:<br>No determinado<br>Límite de inflamabilidad superior:<br>No determinado<br>**Explosividad:**<br>Límite inferior de explosividad:<br>No relevante *<br>Límite superior de explosividad:<br>No relevante *<br>**9.2**<br>**Información adicional:**<br>Tensión superficial a 20 ºC:<br>No relevante *<br>Índice de refracción:<br>No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.|Viscosidad cinemática a 40 ºC:<br><20,5 cSt<br>Concentración:<br>No relevante *<br>pH:<br>No relevante *<br>Densidad de vapor a 20 ºC:<br>No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC:<br>No relevante *<br>Solubilidad en agua a 20 ºC:<br>No relevante *<br>Propiedad de solubilidad:<br>No relevante *<br>Temperatura de descomposición:<br>No relevante *<br>Punto de fusión/punto de congelación:<br>No relevante *<br>Propiedades explosivas:<br>No relevante *<br>Propiedades comburentes:<br>No relevante *<br>**Inflamabilidad:**<br>Punto de inflamación:<br>12 ºC<br>Inflamabilidad (sólido, gas):<br>No relevante *<br>Temperatura de auto-inflamación:<br>423 ºC<br>Límite de inflamabilidad inferior:<br>No determinado<br>Límite de inflamabilidad superior:<br>No determinado<br>**Explosividad:**<br>Límite inferior de explosividad:<br>No relevante *<br>Límite superior de explosividad:<br>No relevante *<br>**9.2**<br>**Información adicional:**<br>Tensión superficial a 20 ºC:<br>No relevante *<br>Índice de refracción:<br>No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl01` extraida de la pagina 6, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl02",
+      "page": 6,
+      "section_number": 10,
+      "bbox": [
+        36.469090548428625,
+        473.1700134277344,
+        558.9333609121817,
+        730.0599670410156
+      ],
+      "markdown": "|Col1|SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD|\n|---|---|\n|**10.1**<br>**Reactividad:**<br>No se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver<br>sección 7.<br>**10.2**<br>**Estabilidad química:**<br>Estable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.<br>**10.3**<br>**Posibilidad de reacciones peligrosas:**<br>Bajo las condiciones indicadas no se esperan reacciones peligrosas que puedan producir una presión o temperaturas excesivas.<br>**10.4**<br>**Condiciones que deben evitarse:**<br>Aplicables para manipulación y almacenamiento a temperatura ambiente:<br>Choque y fricción<br>Contacto con el aire<br>Calentamiento<br>Luz Solar<br>Humedad<br>No aplicable<br>No aplicable<br>Riesgo de inflamación<br>Evitar incidencia directa<br>No aplicable<br>**10.5**<br>**Materiales incompatibles:**<br>Ácidos<br>Agua<br>Materias comburentes<br>Materias combustibles<br>Otros<br>Evitar ácidos fuertes<br>No aplicable<br>Evitar incidencia directa<br>No aplicable<br>Evitar alcalis o bases fuertes<br>**10.6**<br>**Productos de descomposición peligrosos:**<br>Ver epígrafe 10.3, 10.4 y 10.5 para conocer los productos de descomposición específicamente. En dependencia de las condiciones<br>de descomposición, como consecuencia de la misma pueden liberarse mezclas complejas de sustancias químicas: dióxido de<br>carbono (CO2), monóxido de carbono y otros compuestos orgánicos.|**10.1**<br>**Reactividad:**<br>No se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver<br>sección 7.<br>**10.2**<br>**Estabilidad química:**<br>Estable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.<br>**10.3**<br>**Posibilidad de reacciones peligrosas:**<br>Bajo las condiciones indicadas no se esperan reacciones peligrosas que puedan producir una presión o temperaturas excesivas.<br>**10.4**<br>**Condiciones que deben evitarse:**<br>Aplicables para manipulación y almacenamiento a temperatura ambiente:<br>Choque y fricción<br>Contacto con el aire<br>Calentamiento<br>Luz Solar<br>Humedad<br>No aplicable<br>No aplicable<br>Riesgo de inflamación<br>Evitar incidencia directa<br>No aplicable<br>**10.5**<br>**Materiales incompatibles:**<br>Ácidos<br>Agua<br>Materias comburentes<br>Materias combustibles<br>Otros<br>Evitar ácidos fuertes<br>No aplicable<br>Evitar incidencia directa<br>No aplicable<br>Evitar alcalis o bases fuertes<br>**10.6**<br>**Productos de descomposición peligrosos:**<br>Ver epígrafe 10.3, 10.4 y 10.5 para conocer los productos de descomposición específicamente. En dependencia de las condiciones<br>de descomposición, como consecuencia de la misma pueden liberarse mezclas complejas de sustancias químicas: dióxido de<br>carbono (CO2), monóxido de carbono y otros compuestos orgánicos.|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl02` extraida de la pagina 6, asociada a la Seccion 10 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl03",
+      "page": 6,
+      "section_number": 10,
+      "bbox": [
+        74.18400319417317,
+        615.1299896240234,
+        547.1999918619791,
+        636.219970703125
+      ],
+      "markdown": "|Choque y fricción|Contacto con el aire|Calentamiento|Luz Solar|Humedad|\n|---|---|---|---|---|\n|No aplicable|No aplicable|Riesgo de inflamación|Evitar incidencia directa|No aplicable|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl03` extraida de la pagina 6, asociada a la Seccion 10 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl04",
+      "page": 6,
+      "section_number": 10,
+      "bbox": [
+        74.18400319417317,
+        655.4800109863281,
+        547.1999918619791,
+        677.2599792480469
+      ],
+      "markdown": "|Ácidos|Agua|Materias comburentes|Materias combustibles|Otros|\n|---|---|---|---|---|\n|Evitar ácidos fuertes|No aplicable|Evitar incidencia directa|No aplicable|Evitar alcalis o bases fuertes|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl04` extraida de la pagina 6, asociada a la Seccion 10 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl05",
+      "page": 6,
+      "section_number": 11,
+      "bbox": [
+        36.469090548428625,
+        742.2360076904297,
+        558.9333609121817,
+        767.7359924316406
+      ],
+      "markdown": "|Col1|SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA|\n|---|---|\n|||",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl05` extraida de la pagina 6, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl06",
+      "page": 6,
+      "section_number": 11,
+      "bbox": [
+        36.469090548428625,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 6/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_tbl06` extraida de la pagina 6, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_tbl01",
+      "page": 7,
+      "section_number": 11,
+      "bbox": [
+        36.434482442921606,
+        100.4000244140625,
+        558.9571707589286,
+        752.7359924316406
+      ],
+      "markdown": "|Col1|SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)|\n|---|---|\n|**11.1**<br>**Información sobre las posibles vías de exposición:**<br>No se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas<br>**Efectos peligrosos para la salud:**<br>En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición<br>profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:<br>A- Ingestión (efecto agudo):<br>-   Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver<br>sección 3.<br>-   Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas<br>y vómitos.<br>B- Inhalación (efecto agudo):<br>-   Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por inhalación. Para más información ver sección 3.<br>-   Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>C- Contacto con la piel y los ojos (efecto agudo):<br>-   Contacto con la piel: Produce inflamación cutánea.<br>-   Contacto con los ojos: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información<br>ver sección 3.<br>D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):<br>-   Carcinogenicidad: No se cumplen criterios de clasificación. Para más información sobre posibles efectos específicos sobre la<br>salud ver sección 2.<br>  IARC: Tolueno (3); Cuarzo (1 % < RCS < 10 %) (1); Dioxido de titanio (2B)<br>-   Mutagenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>-   Toxicidad para la reproducción: No se cumplen criterios de clasificación.<br>E- Efectos de sensibilización:<br>-   Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciónes 2, 3 y 15.<br>-   Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>F- Toxicidad específica en determinados órganos (STOT)-exposición única:<br>Una exposición a altas concentraciones pueden motivar depresión del sistema nervioso central ocasionando dolor de cabeza,<br>mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.<br>G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:<br>-   Toxicidad específica en determinados órganos (STOT)-exposición repetida: Efectos nocivos para la salud en caso de<br>ingestión, contacto con la piel o inhalación de forma repetitiva, produciendo depresión del sistema nervioso central ocasionando<br>dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.<br>-   Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas<br>como peligrosas por este efecto. Para más información ver sección 3.<br>H- Peligro por aspiración:<br>La ingesta de una dosis considerable puede producir daño pulmonar.<br>**Información adicional:**<br>CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay<br>suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres<br>humanos.<br>La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de<br>productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC,<br>Vol. 93, 2010).<br>El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y<br>nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.<br>**Información toxicológica específica de las sustancias:**|**11.1**<br>**Información sobre las posibles vías de exposición:**<br>No se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas<br>**Efectos peligrosos para la salud:**<br>En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición<br>profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:<br>A- Ingestión (efecto agudo):<br>-   Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver<br>sección 3.<br>-   Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas<br>y vómitos.<br>B- Inhalación (efecto agudo):<br>-   Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por inhalación. Para más información ver sección 3.<br>-   Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>C- Contacto con la piel y los ojos (efecto agudo):<br>-   Contacto con la piel: Produce inflamación cutánea.<br>-   Contacto con los ojos: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información<br>ver sección 3.<br>D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):<br>-   Carcinogenicidad: No se cumplen criterios de clasificación. Para más información sobre posibles efectos específicos sobre la<br>salud ver sección 2.<br>  IARC: Tolueno (3); Cuarzo (1 % < RCS < 10 %) (1); Dioxido de titanio (2B)<br>-   Mutagenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>-   Toxicidad para la reproducción: No se cumplen criterios de clasificación.<br>E- Efectos de sensibilización:<br>-   Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciónes 2, 3 y 15.<br>-   Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>F- Toxicidad específica en determinados órganos (STOT)-exposición única:<br>Una exposición a altas concentraciones pueden motivar depresión del sistema nervioso central ocasionando dolor de cabeza,<br>mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.<br>G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:<br>-   Toxicidad específica en determinados órganos (STOT)-exposición repetida: Efectos nocivos para la salud en caso de<br>ingestión, contacto con la piel o inhalación de forma repetitiva, produciendo depresión del sistema nervioso central ocasionando<br>dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.<br>-   Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas<br>como peligrosas por este efecto. Para más información ver sección 3.<br>H- Peligro por aspiración:<br>La ingesta de una dosis considerable puede producir daño pulmonar.<br>**Información adicional:**<br>CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay<br>suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres<br>humanos.<br>La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de<br>productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC,<br>Vol. 93, 2010).<br>El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y<br>nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.<br>**Información toxicológica específica de las sustancias:**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_tbl01` extraida de la pagina 7, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_tbl02",
+      "page": 7,
+      "section_number": 11,
+      "bbox": [
+        36.434482442921606,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 7/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_tbl02` extraida de la pagina 7, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl01",
+      "page": 8,
+      "section_number": 11,
+      "bbox": [
+        36.30422640518403,
+        100.4000244140625,
+        559.1714333670479,
+        283.3699951171875
+      ],
+      "markdown": "|Col1|SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)|\n|---|---|\n|Identificación<br>Toxicidad aguda<br>Género<br>Tolueno<br>DL50 oral<br>5580 mg/kg<br>Rata<br>CAS: 108-88-3<br>DL50 cutánea<br>12124 mg/kg<br>Rata<br>CL50 inhalación<br>28,1 mg/L (4 h)<br>Rata<br>Dioxido de titanio<br>DL50 oral<br>10000 mg/kg<br>Rata<br>CAS: 13463-67-7<br>DL50 cutánea<br>10000 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante<br>Acetato de etilo<br>DL50 oral<br>4100 mg/kg<br>Rata<br>CAS: 141-78-6<br>DL50 cutánea<br>20000 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante<br>Acetato de isobutilo<br>DL50 oral<br>13413 mg/kg<br>Rata<br>CAS: 110-19-0<br>DL50 cutánea<br>17400 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante|Identificación<br>Toxicidad aguda<br>Género<br>Tolueno<br>DL50 oral<br>5580 mg/kg<br>Rata<br>CAS: 108-88-3<br>DL50 cutánea<br>12124 mg/kg<br>Rata<br>CL50 inhalación<br>28,1 mg/L (4 h)<br>Rata<br>Dioxido de titanio<br>DL50 oral<br>10000 mg/kg<br>Rata<br>CAS: 13463-67-7<br>DL50 cutánea<br>10000 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante<br>Acetato de etilo<br>DL50 oral<br>4100 mg/kg<br>Rata<br>CAS: 141-78-6<br>DL50 cutánea<br>20000 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante<br>Acetato de isobutilo<br>DL50 oral<br>13413 mg/kg<br>Rata<br>CAS: 110-19-0<br>DL50 cutánea<br>17400 mg/kg<br>Conejo<br>CL50 inhalación<br>No relevante|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl01` extraida de la pagina 8, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl02",
+      "page": 8,
+      "section_number": 11,
+      "bbox": [
+        73.75130891799927,
+        122.48001098632812,
+        547.9500063809481,
+        278.2699890136719
+      ],
+      "markdown": "|Identificación|Toxicidad aguda|Col3|Género|\n|---|---|---|---|\n|Tolueno<br>CAS: 108-88-3|DL50 oral|5580 mg/kg|Rata|\n|Tolueno<br>CAS: 108-88-3|DL50 cutánea|12124 mg/kg|Rata|\n|Tolueno<br>CAS: 108-88-3|CL50 inhalación|28,1 mg/L (4 h)|Rata|\n|Dioxido de titanio<br>CAS: 13463-67-7|DL50 oral|10000 mg/kg|Rata|\n|Dioxido de titanio<br>CAS: 13463-67-7|DL50 cutánea|10000 mg/kg|Conejo|\n|Dioxido de titanio<br>CAS: 13463-67-7|CL50 inhalación|No relevante||\n|Acetato de etilo<br>CAS: 141-78-6|DL50 oral|4100 mg/kg|Rata|\n|Acetato de etilo<br>CAS: 141-78-6|DL50 cutánea|20000 mg/kg|Conejo|\n|Acetato de etilo<br>CAS: 141-78-6|CL50 inhalación|No relevante||\n|Acetato de isobutilo<br>CAS: 110-19-0|DL50 oral|13413 mg/kg|Rata|\n|Acetato de isobutilo<br>CAS: 110-19-0|DL50 cutánea|17400 mg/kg|Conejo|\n|Acetato de isobutilo<br>CAS: 110-19-0|CL50 inhalación|No relevante||",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl02` extraida de la pagina 8, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl03",
+      "page": 8,
+      "section_number": 12,
+      "bbox": [
+        36.30422640518403,
+        295.54998779296875,
+        559.1714333670479,
+        753.3359985351562
+      ],
+      "markdown": "|Col1|SECCIÓN 12: INFORMACIÓN ECOTOXICOLÓGICA|\n|---|---|\n|No se disponen de datos experimentales de la mezcla en sí misma relativos a las propiedades ecotoxicológicas.<br>**12.1**<br>**Toxicidad:**<br>Identificación<br>Toxicidad aguda<br>Especie<br>Género<br>Tolueno<br>CL50<br>13 mg/L (96 h)<br>Carassius auratus<br>Pez<br>CAS: 108-88-3<br>CE50<br>11,5 mg/L (48 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>125 mg/L (48 h)<br>Scenedesmus subspicatus<br>Alga<br>Acetato de etilo<br>CL50<br>230 mg/L (96 h)<br>Pimephales promelas<br>Pez<br>CAS: 141-78-6<br>CE50<br>717 mg/L (48 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>3300 mg/L (48 h)<br>Scenedesmus subspicatus<br>Alga<br>Acetato de isobutilo<br>CL50<br>120 mg/L (48 h)<br>Leuciscus idus<br>Pez<br>CAS: 110-19-0<br>CE50<br>168 mg/L (24 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>80 mg/L (8 h)<br>Scenedesmus quadricauda<br>Alga<br>**12.2**<br>**Persistencia y degradabilidad:**<br>Identificación<br>Degradabilidad<br>Biodegradabilidad<br>Tolueno<br>DBO5<br>2.5 g O2/g<br>Concentración<br>100 mg/L<br>CAS: 108-88-3<br>DQO<br>No relevante<br>Periodo<br>14 días<br>DBO5/DQO<br>No relevante<br>% Biodegradado<br>100 %<br>Acetato de etilo<br>DBO5<br>1.36 g O2/g<br>Concentración<br>100 mg/L<br>CAS: 141-78-6<br>DQO<br>1.69 g O2/g<br>Periodo<br>14 días<br>DBO5/DQO<br>0.81<br>% Biodegradado<br>83 %<br>Acetato de isobutilo<br>DBO5<br>No relevante<br>Concentración<br>No relevante<br>CAS: 110-19-0<br>DQO<br>No relevante<br>Periodo<br>20 días<br>DBO5/DQO<br>No relevante<br>% Biodegradado<br>81 %<br>**12.3**<br>**Potencial de bioacumulación:**<br>Identificación<br>Potencial de bioacumulación<br>Tolueno<br>BCF<br>13<br>CAS: 108-88-3<br>Log POW<br>2,73<br>Potencial<br>Bajo<br>Acetato de etilo<br>BCF<br>30<br>CAS: 141-78-6<br>Log POW<br>0,73<br>Potencial<br>Moderado<br>Acetato de isobutilo<br>BCF<br>10<br>CAS: 110-19-0<br>Log POW<br>1,78<br>Potencial<br>Bajo<br>**12.4**<br>**Movilidad en el suelo:**|No se disponen de datos experimentales de la mezcla en sí misma relativos a las propiedades ecotoxicológicas.<br>**12.1**<br>**Toxicidad:**<br>Identificación<br>Toxicidad aguda<br>Especie<br>Género<br>Tolueno<br>CL50<br>13 mg/L (96 h)<br>Carassius auratus<br>Pez<br>CAS: 108-88-3<br>CE50<br>11,5 mg/L (48 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>125 mg/L (48 h)<br>Scenedesmus subspicatus<br>Alga<br>Acetato de etilo<br>CL50<br>230 mg/L (96 h)<br>Pimephales promelas<br>Pez<br>CAS: 141-78-6<br>CE50<br>717 mg/L (48 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>3300 mg/L (48 h)<br>Scenedesmus subspicatus<br>Alga<br>Acetato de isobutilo<br>CL50<br>120 mg/L (48 h)<br>Leuciscus idus<br>Pez<br>CAS: 110-19-0<br>CE50<br>168 mg/L (24 h)<br>Daphnia magna<br>Crustáceo<br>CE50<br>80 mg/L (8 h)<br>Scenedesmus quadricauda<br>Alga<br>**12.2**<br>**Persistencia y degradabilidad:**<br>Identificación<br>Degradabilidad<br>Biodegradabilidad<br>Tolueno<br>DBO5<br>2.5 g O2/g<br>Concentración<br>100 mg/L<br>CAS: 108-88-3<br>DQO<br>No relevante<br>Periodo<br>14 días<br>DBO5/DQO<br>No relevante<br>% Biodegradado<br>100 %<br>Acetato de etilo<br>DBO5<br>1.36 g O2/g<br>Concentración<br>100 mg/L<br>CAS: 141-78-6<br>DQO<br>1.69 g O2/g<br>Periodo<br>14 días<br>DBO5/DQO<br>0.81<br>% Biodegradado<br>83 %<br>Acetato de isobutilo<br>DBO5<br>No relevante<br>Concentración<br>No relevante<br>CAS: 110-19-0<br>DQO<br>No relevante<br>Periodo<br>20 días<br>DBO5/DQO<br>No relevante<br>% Biodegradado<br>81 %<br>**12.3**<br>**Potencial de bioacumulación:**<br>Identificación<br>Potencial de bioacumulación<br>Tolueno<br>BCF<br>13<br>CAS: 108-88-3<br>Log POW<br>2,73<br>Potencial<br>Bajo<br>Acetato de etilo<br>BCF<br>30<br>CAS: 141-78-6<br>Log POW<br>0,73<br>Potencial<br>Moderado<br>Acetato de isobutilo<br>BCF<br>10<br>CAS: 110-19-0<br>Log POW<br>1,78<br>Potencial<br>Bajo<br>**12.4**<br>**Movilidad en el suelo:**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl03` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl04",
+      "page": 8,
+      "section_number": 12,
+      "bbox": [
+        73.75130891799927,
+        346.0699996948242,
+        547.9500063809481,
+        464.7699966430664
+      ],
+      "markdown": "|Identificación|Toxicidad aguda|Col3|Especie|Género|\n|---|---|---|---|---|\n|Tolueno<br>CAS: 108-88-3|CL50|13 mg/L (96 h)|Carassius auratus|Pez|\n|Tolueno<br>CAS: 108-88-3|CE50|11,5 mg/L (48 h)|Daphnia magna|Crustáceo|\n|Tolueno<br>CAS: 108-88-3|CE50|125 mg/L (48 h)|Scenedesmus subspicatus|Alga|\n|Acetato de etilo<br>CAS: 141-78-6|CL50|230 mg/L (96 h)|Pimephales promelas|Pez|\n|Acetato de etilo<br>CAS: 141-78-6|CE50|717 mg/L (48 h)|Daphnia magna|Crustáceo|\n|Acetato de etilo<br>CAS: 141-78-6|CE50|3300 mg/L (48 h)|Scenedesmus subspicatus|Alga|\n|Acetato de isobutilo<br>CAS: 110-19-0|CL50|120 mg/L (48 h)|Leuciscus idus|Pez|\n|Acetato de isobutilo<br>CAS: 110-19-0|CE50|168 mg/L (24 h)|Daphnia magna|Crustáceo|\n|Acetato de isobutilo<br>CAS: 110-19-0|CE50|80 mg/L (8 h)|Scenedesmus quadricauda|Alga|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl04` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl05",
+      "page": 8,
+      "section_number": 12,
+      "bbox": [
+        73.75130891799927,
+        480.7300033569336,
+        547.9500063809481,
+        599.3499857584635
+      ],
+      "markdown": "|Identificación|Degradabilidad|Col3|Biodegradabilidad|Col5|\n|---|---|---|---|---|\n|Tolueno<br>CAS: 108-88-3|DBO5|2.5 g O2/g|Concentración|100 mg/L|\n|Tolueno<br>CAS: 108-88-3|DQO|No relevante|Periodo|14 días|\n|Tolueno<br>CAS: 108-88-3|DBO5/DQO|No relevante|% Biodegradado|100 %|\n|Acetato de etilo<br>CAS: 141-78-6|DBO5|1.36 g O2/g|Concentración|100 mg/L|\n|Acetato de etilo<br>CAS: 141-78-6|DQO|1.69 g O2/g|Periodo|14 días|\n|Acetato de etilo<br>CAS: 141-78-6|DBO5/DQO|0.81|% Biodegradado|83 %|\n|Acetato de isobutilo<br>CAS: 110-19-0|DBO5|No relevante|Concentración|No relevante|\n|Acetato de isobutilo<br>CAS: 110-19-0|DQO|No relevante|Periodo|20 días|\n|Acetato de isobutilo<br>CAS: 110-19-0|DBO5/DQO|No relevante|% Biodegradado|81 %|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl05` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl06",
+      "page": 8,
+      "section_number": 12,
+      "bbox": [
+        73.75130891799927,
+        615.3699951171875,
+        547.9500063809481,
+        734.0800018310547
+      ],
+      "markdown": "|Identificación|Potencial de bioacumulación|Col3|\n|---|---|---|\n|Tolueno<br>CAS: 108-88-3|BCF|13|\n|Tolueno<br>CAS: 108-88-3|Log POW|2,73|\n|Tolueno<br>CAS: 108-88-3|Potencial|Bajo|\n|Acetato de etilo<br>CAS: 141-78-6|BCF|30|\n|Acetato de etilo<br>CAS: 141-78-6|Log POW|0,73|\n|Acetato de etilo<br>CAS: 141-78-6|Potencial|Moderado|\n|Acetato de isobutilo<br>CAS: 110-19-0|BCF|10|\n|Acetato de isobutilo<br>CAS: 110-19-0|Log POW|1,78|\n|Acetato de isobutilo<br>CAS: 110-19-0|Potencial|Bajo|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl06` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl07",
+      "page": 8,
+      "section_number": 12,
+      "bbox": [
+        36.30422640518403,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 8/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_tbl07` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl01",
+      "page": 9,
+      "section_number": 12,
+      "bbox": [
+        36.39714313688732,
+        100.4000244140625,
+        559.0073376167111,
+        303.04998779296875
+      ],
+      "markdown": "|Col1|SECCIÓN 12: INFORMACIÓN ECOTOXICOLÓGICA (continúa)|\n|---|---|\n|Identificación<br>Absorción/Desorción<br>Volatilidad<br>Tolueno<br>Koc<br>178<br>Henry<br>672,8 Pa·m³/mol<br>CAS: 108-88-3<br>Conclusión<br>Moderado<br>Suelo seco<br>Sí<br>Tensión superficial<br>2,793E-2 N/m  (25 ºC)<br>Suelo húmedo<br>Sí<br>Acetato de etilo<br>Koc<br>59<br>Henry<br>13,58 Pa·m³/mol<br>CAS: 141-78-6<br>Conclusión<br>Muy Alto<br>Suelo seco<br>Sí<br>Tensión superficial<br>2,324E-2 N/m  (25 ºC)<br>Suelo húmedo<br>Sí<br>Acetato de isobutilo<br>Koc<br>No relevante<br>Henry<br>No relevante<br>CAS: 110-19-0<br>Conclusión<br>No relevante<br>Suelo seco<br>No relevante<br>Tensión superficial<br>2,297E-2 N/m  (25 ºC)<br>Suelo húmedo<br>No relevante<br>**12.5**<br>**Resultados de la valoración PBT y mPmB:**<br>No aplicable<br>**12.6**<br>**Otros efectos adversos:**<br>No descritos|Identificación<br>Absorción/Desorción<br>Volatilidad<br>Tolueno<br>Koc<br>178<br>Henry<br>672,8 Pa·m³/mol<br>CAS: 108-88-3<br>Conclusión<br>Moderado<br>Suelo seco<br>Sí<br>Tensión superficial<br>2,793E-2 N/m  (25 ºC)<br>Suelo húmedo<br>Sí<br>Acetato de etilo<br>Koc<br>59<br>Henry<br>13,58 Pa·m³/mol<br>CAS: 141-78-6<br>Conclusión<br>Muy Alto<br>Suelo seco<br>Sí<br>Tensión superficial<br>2,324E-2 N/m  (25 ºC)<br>Suelo húmedo<br>Sí<br>Acetato de isobutilo<br>Koc<br>No relevante<br>Henry<br>No relevante<br>CAS: 110-19-0<br>Conclusión<br>No relevante<br>Suelo seco<br>No relevante<br>Tensión superficial<br>2,297E-2 N/m  (25 ºC)<br>Suelo húmedo<br>No relevante<br>**12.5**<br>**Resultados de la valoración PBT y mPmB:**<br>No aplicable<br>**12.6**<br>**Otros efectos adversos:**<br>No descritos|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl01` extraida de la pagina 9, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl02",
+      "page": 9,
+      "section_number": 12,
+      "bbox": [
+        73.70400164677547,
+        122.48001098632812,
+        547.8510783427471,
+        241.0999959309896
+      ],
+      "markdown": "|Identificación|Absorción/Desorción|Col3|Volatilidad|Col5|\n|---|---|---|---|---|\n|Tolueno<br>CAS: 108-88-3|Koc|178|Henry|672,8 Pa·m³/mol|\n|Tolueno<br>CAS: 108-88-3|Conclusión|Moderado|Suelo seco|Sí|\n|Tolueno<br>CAS: 108-88-3|Tensión superficial|2,793E-2 N/m  (25 ºC)|Suelo húmedo|Sí|\n|Acetato de etilo<br>CAS: 141-78-6|Koc|59|Henry|13,58 Pa·m³/mol|\n|Acetato de etilo<br>CAS: 141-78-6|Conclusión|Muy Alto|Suelo seco|Sí|\n|Acetato de etilo<br>CAS: 141-78-6|Tensión superficial|2,324E-2 N/m  (25 ºC)|Suelo húmedo|Sí|\n|Acetato de isobutilo<br>CAS: 110-19-0|Koc|No relevante|Henry|No relevante|\n|Acetato de isobutilo<br>CAS: 110-19-0|Conclusión|No relevante|Suelo seco|No relevante|\n|Acetato de isobutilo<br>CAS: 110-19-0|Tensión superficial|2,297E-2 N/m  (25 ºC)|Suelo húmedo|No relevante|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl02` extraida de la pagina 9, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl03",
+      "page": 9,
+      "section_number": 13,
+      "bbox": [
+        36.39714313688732,
+        315.2300109863281,
+        559.0073376167111,
+        448.12998962402344
+      ],
+      "markdown": "|Col1|SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS|\n|---|---|\n|**13.1**<br>**Métodos de eliminación:**<br>**Gestión del residuo (eliminación y valorización):**<br>Consultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado en<br>contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo<br>no peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2.<br>**Disposiciones legislativas relacionadas con la gestión de residuos:**<br>Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral|**13.1**<br>**Métodos de eliminación:**<br>**Gestión del residuo (eliminación y valorización):**<br>Consultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado en<br>contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo<br>no peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2.<br>**Disposiciones legislativas relacionadas con la gestión de residuos:**<br>Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl03` extraida de la pagina 9, asociada a la Seccion 13 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl04",
+      "page": 9,
+      "section_number": 14,
+      "bbox": [
+        36.39714313688732,
+        460.4500045776367,
+        559.0073376167111,
+        701.6199645996094
+      ],
+      "markdown": "|Col1|SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE|\n|---|---|\n|**Transporte terrestre de mercancías peligrosas:**<br>En aplicación a la norma técnica colombiana 1692:<br>**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**<br>**Transporte marítimo de mercancías peligrosas:**<br>En aplicación al IMDG 38-16:|**Transporte terrestre de mercancías peligrosas:**<br>En aplicación a la norma técnica colombiana 1692:<br>**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**<br>**Transporte marítimo de mercancías peligrosas:**<br>En aplicación al IMDG 38-16:|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl04` extraida de la pagina 9, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl05",
+      "page": 9,
+      "section_number": 14,
+      "bbox": [
+        36.39714313688732,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 9/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_tbl05` extraida de la pagina 9, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl01",
+      "page": 10,
+      "section_number": 14,
+      "bbox": [
+        36.42947347540604,
+        100.4000244140625,
+        558.9600202772352,
+        472.27000427246094
+      ],
+      "markdown": "|Col1|SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)|\n|---|---|\n|**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**<br>**Transporte aéreo de mercancías peligrosas:**<br>En aplicación al IATA/OACI 2018:<br>**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**|**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**<br>**Transporte aéreo de mercancías peligrosas:**<br>En aplicación al IATA/OACI 2018:<br>**14.6**<br>**14.4**<br>**14.3**<br>**14.2**<br>**14.1**<br>ver epígrafe 9<br>Propiedades físico-químicas:<br>II<br>**Grupo de embalaje/envasado si**<br>**se aplica:**<br>3 <br>Etiquetas:<br>3 <br>**Clase(s) relativas al transporte:**<br>PINTURA<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**<br>UN1263<br>**Riesgos ambientales:**<br>No<br>**14.5**<br>**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>No relevante<br>**14.7**<br>**Precauciones especiales para el usuario**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl01` extraida de la pagina 10, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl02",
+      "page": 10,
+      "section_number": 15,
+      "bbox": [
+        36.42947347540604,
+        484.44998931884766,
+        558.9600202772352,
+        596.7099914550781
+      ],
+      "markdown": "|Col1|SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN|\n|---|---|\n|NTP (National Toxicology Program): No relevante<br>**Disposiciones particulares en materia de protección de las personas o el medio ambiente:**<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>**Otras legislaciones:**<br>**15.1**<br>**Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:**|NTP (National Toxicology Program): No relevante<br>**Disposiciones particulares en materia de protección de las personas o el medio ambiente:**<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>**Otras legislaciones:**<br>**15.1**<br>**Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl02` extraida de la pagina 10, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl03",
+      "page": 10,
+      "section_number": 15,
+      "bbox": [
+        36.42947347540604,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 10/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_tbl03` extraida de la pagina 10, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl01",
+      "page": 11,
+      "section_number": 15,
+      "bbox": [
+        36.43999973932902,
+        100.4000244140625,
+        558.945240850034,
+        317.21002197265625
+      ],
+      "markdown": "|Col1|SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN (continúa)|\n|---|---|\n|Resolución 0312 de 2019 - por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo<br>SG-SST.<br>CONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.<br>Decreto 1079 de 2015 - decreto único reglamentario del sector transporte<br>NTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado<br>NTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración<br>Decreto número 4741 de 2005<br>Decreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado<br>Decreto 321 de 1999  - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas.<br>NTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos<br>NTC 4702 - 2 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 2. Gases<br>NTC 4702 - 3 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 3. Líquidos Inflamables<br>NTC 4702 - 4 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 4. Sólidos Inflamables, Sustancias que<br>presentan riesgo de combustión espontánea, sustancias que en contacto con el agua desprenden gases inflamables.<br>NTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos<br>Orgánicos<br>NTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas<br>NTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas<br>NTC 4702 - 9 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 9. Sustancias Peligrosas varias|Resolución 0312 de 2019 - por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo<br>SG-SST.<br>CONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.<br>Decreto 1079 de 2015 - decreto único reglamentario del sector transporte<br>NTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado<br>NTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración<br>Decreto número 4741 de 2005<br>Decreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado<br>Decreto 321 de 1999  - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas.<br>NTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos<br>NTC 4702 - 2 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 2. Gases<br>NTC 4702 - 3 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 3. Líquidos Inflamables<br>NTC 4702 - 4 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 4. Sólidos Inflamables, Sustancias que<br>presentan riesgo de combustión espontánea, sustancias que en contacto con el agua desprenden gases inflamables.<br>NTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos<br>Orgánicos<br>NTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas<br>NTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas<br>NTC 4702 - 9 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 9. Sustancias Peligrosas varias|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl01` extraida de la pagina 11, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl02",
+      "page": 11,
+      "section_number": 16,
+      "bbox": [
+        36.43999973932902,
+        329.3900146484375,
+        558.945240850034,
+        724.2999877929688
+      ],
+      "markdown": "|Col1|SECCIÓN 16: OTRAS INFORMACIONES|\n|---|---|\n|**Legislación aplicable a fichas de datos de seguridad:**<br>Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010<br>**Textos de las frases legislativas contempladas en la sección 2:**<br>H315: Provoca irritación cutánea<br>H336: Puede provocar somnolencia o vértigo<br>H304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>H225: Líquido y vapores muy inflamables<br>**Textos de las frases legislativas contempladas en la sección 3:**<br>Las frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales<br>que aparecen en la sección 3<br>**SGA:**<br>Acuatico agudo. 3: H402 - Nocivo para los organismos acuáticos<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables<br>STOT unica 3: H336 - Puede provocar somnolencia o vértigo<br>Tox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>**Consejos relativos a la formación:**<br>Se recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la<br>finalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del<br>producto.<br>**Principales fuentes bibliográficas:**<br>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC)<br>IARC:Agencia Internacional para la Investigación sobre Cáncer<br>OSHA:Occupational Safety and Health Administration, U.S Department of Labor<br>NTP:National Toxicology Program<br>TOXNET: Toxicology data network<br>**Abreviaturas y acrónimos:**|**Legislación aplicable a fichas de datos de seguridad:**<br>Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010<br>**Textos de las frases legislativas contempladas en la sección 2:**<br>H315: Provoca irritación cutánea<br>H336: Puede provocar somnolencia o vértigo<br>H304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>H225: Líquido y vapores muy inflamables<br>**Textos de las frases legislativas contempladas en la sección 3:**<br>Las frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales<br>que aparecen en la sección 3<br>**SGA:**<br>Acuatico agudo. 3: H402 - Nocivo para los organismos acuáticos<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables<br>STOT unica 3: H336 - Puede provocar somnolencia o vértigo<br>Tox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>**Consejos relativos a la formación:**<br>Se recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la<br>finalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del<br>producto.<br>**Principales fuentes bibliográficas:**<br>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC)<br>IARC:Agencia Internacional para la Investigación sobre Cáncer<br>OSHA:Occupational Safety and Health Administration, U.S Department of Labor<br>NTP:National Toxicology Program<br>TOXNET: Toxicology data network<br>**Abreviaturas y acrónimos:**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl02` extraida de la pagina 11, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl03",
+      "page": 11,
+      "section_number": 16,
+      "bbox": [
+        36.43999973932902,
+        792.0999755859375,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|Emisión: 28/01/2019 Versión: 1|Página 11/12|\n|---|---|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_tbl03` extraida de la pagina 11, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_tbl01",
+      "page": 12,
+      "section_number": 16,
+      "bbox": [
+        36.27000077565511,
+        100.4000244140625,
+        559.1472722833806,
+        241.22003173828125
+      ],
+      "markdown": "|Col1|SECCIÓN 16: OTRAS INFORMACIONES (continúa)|\n|---|---|\n|IMDG: Código Marítimo Internacional de Mercancías Peligrosas<br>IATA: Asociación Internacional de Transporte Aéreo<br>OACI: Organización de Aviación Civil Internacional<br>DQO:Demanda Quimica de oxígeno<br>DBO5:Demanda biológica de oxígeno a los 5 días<br>BCF: factor de bioconcentración<br>DL50: dosis letal 50<br>CL50: concentración letal 50<br>EC50: concentración efectiva 50<br>Log POW: logaritmo coeficiente partición octanol-agua<br>Koc: coeficiente de partición del carbono orgánico|IMDG: Código Marítimo Internacional de Mercancías Peligrosas<br>IATA: Asociación Internacional de Transporte Aéreo<br>OACI: Organización de Aviación Civil Internacional<br>DQO:Demanda Quimica de oxígeno<br>DBO5:Demanda biológica de oxígeno a los 5 días<br>BCF: factor de bioconcentración<br>DL50: dosis letal 50<br>CL50: concentración letal 50<br>EC50: concentración efectiva 50<br>Log POW: logaritmo coeficiente partición octanol-agua<br>Koc: coeficiente de partición del carbono orgánico|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_tbl01` extraida de la pagina 12, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina."
+    },
+    {
+      "table_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_tbl02",
+      "page": 12,
+      "section_number": 16,
+      "bbox": [
+        36.27000077565511,
+        738.4600219726562,
+        584.6500244140625,
+        806.0159912109375
+      ],
+      "markdown": "|La información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la<br>exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos<br>en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última<br>del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de<br>esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.|Col2|\n|---|---|\n|FIN DE LA FICHA DE DATOS DE SEGURIDAD|FIN DE LA FICHA DE DATOS DE SEGURIDAD|\n|Emisión: 28/01/2019            Versión: 1|**Página 12/12**|",
+      "trace_note": "Nota de trazabilidad: tabla `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_tbl02` extraida de la pagina 12, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina."
+    }
+  ],
+  "images": [
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img01",
+      "page": 1,
+      "section_number": 1,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img01` extraida de la pagina 1, asociada a la Seccion 1 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img02",
+      "page": 1,
+      "section_number": 1,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img02` extraida de la pagina 1, asociada a la Seccion 1 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img03",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img03.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img03.png",
+      "width": 38,
+      "height": 38,
+      "bbox": [
+        283.54998779296875,
+        477.25,
+        312.0999755859375,
+        505.79998779296875
+      ],
+      "sha256": "cb39b0eb17ae6344a9e5a7c9e225ea5e45938eb8d0b5dec2d4606989565e1a20",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img03` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: cb39b0eb17ae6344a9e5a7c9e225ea5e45938eb8d0b5dec2d4606989565e1a20."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img04",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img04.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img04.png",
+      "width": 78,
+      "height": 78,
+      "bbox": [
+        109.69999694824219,
+        477.25,
+        138.0,
+        505.54998779296875
+      ],
+      "sha256": "b53a53ef0e392ee74d773d6c4bf9b2a9c8db4a59dc32406d5c46358288c87c9f",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img04` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: b53a53ef0e392ee74d773d6c4bf9b2a9c8db4a59dc32406d5c46358288c87c9f."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img05",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img05.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img05.png",
+      "width": 78,
+      "height": 78,
+      "bbox": [
+        74.9000015258789,
+        477.25,
+        103.19999694824219,
+        505.54998779296875
+      ],
+      "sha256": "b7b7f4cb86d0fd50352c4a8f4f2ca2c3d810e199fb4014bbdbde103faf22fa72",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img05` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: b7b7f4cb86d0fd50352c4a8f4f2ca2c3d810e199fb4014bbdbde103faf22fa72."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img06",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img06.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img06.png",
+      "width": 78,
+      "height": 78,
+      "bbox": [
+        144.35000610351562,
+        477.25,
+        172.70001220703125,
+        505.54998779296875
+      ],
+      "sha256": "44b4e721bc9d7624d15bcdafb06b80bfa128a42ef92dcfc8eff887de0fe3f12d",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p001_img06` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: 44b4e721bc9d7624d15bcdafb06b80bfa128a42ef92dcfc8eff887de0fe3f12d."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img01",
+      "page": 2,
+      "section_number": 3,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img01` extraida de la pagina 2, asociada a la Seccion 3 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img02",
+      "page": 2,
+      "section_number": 2,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p002_img02` extraida de la pagina 2, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img01",
+      "page": 3,
+      "section_number": 5,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img01` extraida de la pagina 3, asociada a la Seccion 5 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img02",
+      "page": 3,
+      "section_number": 5,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p003_img02` extraida de la pagina 3, asociada a la Seccion 5 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img01",
+      "page": 4,
+      "section_number": 7,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img01` extraida de la pagina 4, asociada a la Seccion 7 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img02",
+      "page": 4,
+      "section_number": 7,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img02` extraida de la pagina 4, asociada a la Seccion 7 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img03",
+      "page": 4,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img03.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img03.png",
+      "width": 94,
+      "height": 94,
+      "bbox": [
+        101.5,
+        604.7999877929688,
+        135.5,
+        638.75
+      ],
+      "sha256": "dcd59e57c6b630a64e82eab730ab791aa53956e0a71c017ef561a856c73b597c",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img03` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: dcd59e57c6b630a64e82eab730ab791aa53956e0a71c017ef561a856c73b597c."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img04",
+      "page": 4,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img04.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img04.png",
+      "width": 94,
+      "height": 94,
+      "bbox": [
+        101.5,
+        691.7999877929688,
+        135.5,
+        725.75
+      ],
+      "sha256": "65d83ae5e891ea322204529c6a9b43ee1fa7dea5cd49b4c58690c5e189e1022f",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p004_img04` extraida de la pagina 4, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: 65d83ae5e891ea322204529c6a9b43ee1fa7dea5cd49b4c58690c5e189e1022f."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img01",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img01` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img02",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img02` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img03",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img03.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img03.png",
+      "width": 94,
+      "height": 94,
+      "bbox": [
+        101.5,
+        150.94996643066406,
+        135.5,
+        184.89996337890625
+      ],
+      "sha256": "c4094f136d4a5e5810c82167e7b9789a250f86e2b81c6d8c3acd7bb5dd39d96e",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img03` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: c4094f136d4a5e5810c82167e7b9789a250f86e2b81c6d8c3acd7bb5dd39d96e."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img04",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img04.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img04.png",
+      "width": 94,
+      "height": 94,
+      "bbox": [
+        101.5,
+        231.00001525878906,
+        135.5,
+        264.95001220703125
+      ],
+      "sha256": "76a9f2bf4b1f6559cd36755d27f62d6ce41616dbc3c0848c8c60bc8a03d5c917",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img04` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: 76a9f2bf4b1f6559cd36755d27f62d6ce41616dbc3c0848c8c60bc8a03d5c917."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img05",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img05.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img05.png",
+      "width": 94,
+      "height": 94,
+      "bbox": [
+        101.5,
+        289.699951171875,
+        135.5,
+        323.64996337890625
+      ],
+      "sha256": "cca20439de93d911de4b72b72356839148611fe9152190395c9a281212c48634",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img05` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: cca20439de93d911de4b72b72356839148611fe9152190395c9a281212c48634."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img06",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img06.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img06.png",
+      "width": 78,
+      "height": 78,
+      "bbox": [
+        120.69999694824219,
+        377.3000183105469,
+        149.0500030517578,
+        405.6000061035156
+      ],
+      "sha256": "6946f60c9ccd419eeda8002bad9dfe9ad5a5717150416358e5f48646dfd36633",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img06` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: 6946f60c9ccd419eeda8002bad9dfe9ad5a5717150416358e5f48646dfd36633."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img07",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img07.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img07.png",
+      "width": 78,
+      "height": 78,
+      "bbox": [
+        351.25,
+        377.3000183105469,
+        379.54998779296875,
+        405.6000061035156
+      ],
+      "sha256": "2dbc6ff38cb2bc41dd45a029330261c48cc734bedc99d982aa1e00943cfcf3bd",
+      "kind": "icono_o_marca_pequena",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p005_img07` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: icono_o_marca_pequena. Hash SHA-256: 2dbc6ff38cb2bc41dd45a029330261c48cc734bedc99d982aa1e00943cfcf3bd."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img01",
+      "page": 6,
+      "section_number": 9,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img01` extraida de la pagina 6, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img02",
+      "page": 6,
+      "section_number": 9,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p006_img02` extraida de la pagina 6, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img01",
+      "page": 7,
+      "section_number": 11,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img01` extraida de la pagina 7, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img02",
+      "page": 7,
+      "section_number": 11,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p007_img02` extraida de la pagina 7, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img01",
+      "page": 8,
+      "section_number": 11,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img01` extraida de la pagina 8, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img02",
+      "page": 8,
+      "section_number": 11,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p008_img02` extraida de la pagina 8, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img01",
+      "page": 9,
+      "section_number": 12,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img01` extraida de la pagina 9, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img02",
+      "page": 9,
+      "section_number": 12,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img02` extraida de la pagina 9, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img03",
+      "page": 9,
+      "section_number": 14,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img03.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img03.png",
+      "width": 165,
+      "height": 165,
+      "bbox": [
+        73.30000305175781,
+        510.25,
+        132.85000610351562,
+        569.75
+      ],
+      "sha256": "6af3e3ee44ddc01cf36c05c98829daadd3355167711bcd6e20dbf41b4013edd2",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p009_img03` extraida de la pagina 9, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 6af3e3ee44ddc01cf36c05c98829daadd3355167711bcd6e20dbf41b4013edd2."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img01",
+      "page": 10,
+      "section_number": 14,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img01` extraida de la pagina 10, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img02",
+      "page": 10,
+      "section_number": 14,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img02` extraida de la pagina 10, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img03",
+      "page": 10,
+      "section_number": 14,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img03.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img03.png",
+      "width": 165,
+      "height": 165,
+      "bbox": [
+        73.30000305175781,
+        121.90000915527344,
+        132.85000610351562,
+        181.45001220703125
+      ],
+      "sha256": "6af3e3ee44ddc01cf36c05c98829daadd3355167711bcd6e20dbf41b4013edd2",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p010_img03` extraida de la pagina 10, asociada a la Seccion 14 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 6af3e3ee44ddc01cf36c05c98829daadd3355167711bcd6e20dbf41b4013edd2."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img01",
+      "page": 11,
+      "section_number": 15,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img01` extraida de la pagina 11, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img02",
+      "page": 11,
+      "section_number": 15,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p011_img02` extraida de la pagina 11, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img01",
+      "page": 12,
+      "section_number": 16,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img01.png",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img01.png",
+      "width": 994,
+      "height": 637,
+      "bbox": [
+        -1.5,
+        228.75,
+        594.0,
+        609.75
+      ],
+      "sha256": "bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad”",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img01` extraida de la pagina 12, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bddb1e8e26b57a44ff127f842574a5c217d8f89762e07cc89800b970482b4e01."
+    },
+    {
+      "image_id": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img02",
+      "page": 12,
+      "section_number": 16,
+      "file_name": "pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img02.jpg",
+      "relative_markdown_path": "../../assets/Pintuco/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687/images/pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img02.jpg",
+      "width": 268,
+      "height": 154,
+      "bbox": [
+        36.0,
+        35.999996185302734,
+        132.72000122070312,
+        91.55999755859375
+      ],
+      "sha256": "bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8",
+      "kind": "imagen_embebida",
+      "ocr_text": "El Color de la Calidad",
+      "trace_note": "Nota de trazabilidad: imagen `pintuco__fds-21-pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687__p012_img02` extraida de la pagina 12, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: bce6ad87b1221832f1455c2eeaf1966317bcdd5364f2484b119b33bf9fdf08b8."
+    }
+  ],
+  "warnings": [],
+  "extraction_errors": []
+}

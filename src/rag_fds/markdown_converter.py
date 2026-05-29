@@ -59,9 +59,47 @@ def yaml_quote(value: object) -> str:
 
 def first_hits_by_section(hits: list[SectionHit]) -> list[SectionHit]:
     selected: dict[int, SectionHit] = {}
+    grouped: dict[int, list[SectionHit]] = {}
     for hit in sorted(hits, key=lambda item: (item.page, item.start)):
-        selected.setdefault(hit.number, hit)
+        grouped.setdefault(hit.number, []).append(hit)
+
+    for number, section_hits in grouped.items():
+        selected[number] = select_best_section_hit(number, section_hits)
     return sorted(selected.values(), key=lambda item: (item.page, item.start))
+
+
+def normalize_heading(value: str) -> str:
+    value = unicodedata.normalize("NFKD", value.lower())
+    value = "".join(character for character in value if not unicodedata.combining(character))
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    return " ".join(value.split())
+
+
+def heading_match_score(number: int, title: str) -> int:
+    expected = normalize_heading(SECTION_TITLES[number])
+    candidate = normalize_heading(title)
+    if not candidate:
+        return 0
+    if candidate.startswith(expected) or expected.startswith(candidate):
+        return 100
+    if expected in candidate:
+        return 60
+
+    expected_terms = [term for term in expected.split() if len(term) > 3]
+    return sum(1 for term in expected_terms if term in candidate)
+
+
+def select_best_section_hit(number: int, hits: list[SectionHit]) -> SectionHit:
+    earliest = sorted(hits, key=lambda item: (item.page, item.start))[0]
+    scored = [
+        (heading_match_score(number, hit.title), hit.page, hit.start, hit)
+        for hit in hits
+    ]
+    best_score = max(score for score, _, _, _ in scored)
+    if best_score <= 0:
+        return earliest
+    matching_hits = [item for item in scored if item[0] == best_score]
+    return sorted(matching_hits, key=lambda item: (item[1], item[2]))[0][3]
 
 
 def section_text_from_pages(page_texts: list[str], start: SectionHit, end: SectionHit | None) -> str:

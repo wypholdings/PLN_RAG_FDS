@@ -1,0 +1,18 @@
+{
+  "manufacturer": "Pintuco",
+  "documents": 19,
+  "chunks": 589,
+  "sections_expected": 304,
+  "full_fds_sections_expected": 304,
+  "sections_covered": 304,
+  "chunks_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/processed/chunks/pintuco_chunks.jsonl",
+  "report_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/reports/chunk_report_pintuco.csv",
+  "content_type_counts": {
+    "image": 500,
+    "ocr": 500,
+    "table": 580,
+    "text": 589
+  },
+  "max_tokens": 850,
+  "overlap_tokens": 100
+}

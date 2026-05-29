@@ -58,11 +58,17 @@ def main() -> int:
     content_type_counter = Counter()
     for chunk in chunks:
         content_type_counter.update(chunk.content_types)
+    expected_sections = {
+        (metadata["document_id"], section["number"])
+        for metadata in metadata_items
+        for section in metadata["sections"]
+    }
     summary = {
         "manufacturer": manufacturer,
         "documents": len(metadata_items),
         "chunks": len(chunks),
-        "sections_expected": len(metadata_items) * 16,
+        "sections_expected": len(expected_sections),
+        "full_fds_sections_expected": len(metadata_items) * 16,
         "sections_covered": len({(chunk.document_id, chunk.section_number) for chunk in chunks}),
         "chunks_path": str(chunks_path),
         "report_path": str(report_path),

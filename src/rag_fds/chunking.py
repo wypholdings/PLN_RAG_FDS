@@ -5,6 +5,8 @@ import re
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
+from .sections import SECTION_TITLES
+
 
 @dataclass(frozen=True)
 class Chunk:
@@ -136,47 +138,102 @@ def build_section_content(section: dict, tables: list[dict], images: list[dict])
 
 def chunks_from_metadata(metadata: dict, max_tokens: int = 850, overlap_tokens: int = 100) -> list[Chunk]:
     chunks: list[Chunk] = []
+    section_numbers = {section["number"] for section in metadata["sections"]}
     for section in metadata["sections"]:
         section = {**section, "source_file": metadata["source_file"]}
         tables = section_related_tables(metadata, section["number"])
         images = section_related_images(metadata, section["number"])
-        section_content, content_types = build_section_content(section, tables, images)
-        content_pieces = split_text(section_content, max_tokens=max_tokens, overlap_tokens=overlap_tokens)
-        chunk_count = len(content_pieces)
-        table_ids = [table["table_id"] for table in tables]
-        image_ids = [image["image_id"] for image in images]
-        asset_paths = [image["relative_markdown_path"] for image in images]
-
-        for index, content in enumerate(content_pieces, start=1):
-            chunk_id = f"{metadata['document_id']}__sec{section['number']:02d}__chunk{index:02d}"
-            chunks.append(
-                Chunk(
-                    chunk_id=chunk_id,
-                    document_id=metadata["document_id"],
-                    manufacturer=metadata["manufacturer"],
-                    product=metadata["product"],
-                    source_file=metadata["source_file"],
-                    section_number=section["number"],
-                    section_title=section["title"],
-                    page_start=section["page_start"],
-                    page_end=section["page_end"],
-                    chunk_index=index,
-                    chunk_count_for_section=chunk_count,
-                    content=content,
-                    content_types=content_types,
-                    table_ids=table_ids,
-                    image_ids=image_ids,
-                    asset_paths=asset_paths,
-                    trace={
-                        "source_file": metadata["source_file"],
-                        "section": section["number"],
-                        "section_title": section["title"],
-                        "pages": [section["page_start"], section["page_end"]],
-                        "tables": table_ids,
-                        "images": image_ids,
-                    },
-                )
+        chunks.extend(
+            chunks_from_section(
+                metadata=metadata,
+                section=section,
+                tables=tables,
+                images=images,
+                max_tokens=max_tokens,
+                overlap_tokens=overlap_tokens,
             )
+        )
+
+    asset_section_numbers = {
+        item["section_number"]
+        for item in [*metadata.get("tables", []), *metadata.get("images", [])]
+        if item.get("section_number") is not None
+    }
+    for section_number in sorted(asset_section_numbers - section_numbers):
+        tables = section_related_tables(metadata, section_number)
+        images = section_related_images(metadata, section_number)
+        pages = [
+            item["page"]
+            for item in [*tables, *images]
+            if item.get("page") is not None
+        ]
+        section = {
+            "source_file": metadata["source_file"],
+            "number": section_number,
+            "title": SECTION_TITLES.get(section_number, "Evidencia sin seccion textual detectada"),
+            "page_start": min(pages) if pages else 1,
+            "page_end": max(pages) if pages else metadata["page_count"],
+            "text": "Bloque textual de seccion no detectado; se conserva evidencia estructurada extraida de tablas e imagenes.",
+        }
+        chunks.extend(
+            chunks_from_section(
+                metadata=metadata,
+                section=section,
+                tables=tables,
+                images=images,
+                max_tokens=max_tokens,
+                overlap_tokens=overlap_tokens,
+            )
+        )
+    return chunks
+
+
+def chunks_from_section(
+    metadata: dict,
+    section: dict,
+    tables: list[dict],
+    images: list[dict],
+    max_tokens: int,
+    overlap_tokens: int,
+) -> list[Chunk]:
+    section_content, content_types = build_section_content(section, tables, images)
+    content_pieces = split_text(section_content, max_tokens=max_tokens, overlap_tokens=overlap_tokens)
+    chunk_count = len(content_pieces)
+    table_ids = [table["table_id"] for table in tables]
+    image_ids = [image["image_id"] for image in images]
+    asset_paths = [image["relative_markdown_path"] for image in images]
+    chunks: list[Chunk] = []
+
+    for index, content in enumerate(content_pieces, start=1):
+        chunk_id = f"{metadata['document_id']}__sec{section['number']:02d}__chunk{index:02d}"
+        chunks.append(
+            Chunk(
+                chunk_id=chunk_id,
+                document_id=metadata["document_id"],
+                manufacturer=metadata["manufacturer"],
+                product=metadata["product"],
+                source_file=metadata["source_file"],
+                section_number=section["number"],
+                section_title=section["title"],
+                page_start=section["page_start"],
+                page_end=section["page_end"],
+                chunk_index=index,
+                chunk_count_for_section=chunk_count,
+                content=content,
+                content_types=content_types,
+                table_ids=table_ids,
+                image_ids=image_ids,
+                asset_paths=asset_paths,
+                trace={
+                    "source_file": metadata["source_file"],
+                    "section": section["number"],
+                    "section_title": section["title"],
+                    "pages": [section["page_start"], section["page_end"]],
+                    "tables": table_ids,
+                    "images": image_ids,
+                },
+            )
+        )
     return chunks
 
 

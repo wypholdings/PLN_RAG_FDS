@@ -69,6 +69,27 @@ def first_match(pattern: str, text: str) -> str:
     return match.group(1).strip() if match else "no reportado en el fragmento"
 
 
+def transport_fields(content: str) -> tuple[str, str, str]:
+    onu = first_match(r"(?:N[úu]mero ONU|No\. UN/ID)\s*:\s*([^\n]+)", content)
+    transport_class = first_match(r"Clase\s*:\s*([^\n]+)", content)
+    packing_group = first_match(r"Grupo de embalaje\s*:\s*([^\n]+)", content)
+
+    un_match = re.search(r"UN\s?(\d{4})", content, flags=re.IGNORECASE)
+    if onu.startswith("no reportado") and un_match:
+        onu = f"UN {un_match.group(1)}"
+
+    if un_match and (transport_class.startswith("no reportado") or packing_group.startswith("no reportado")):
+        tail = content[un_match.end() : un_match.end() + 30]
+        compact = re.search(r"\s*([1-9])\s*(I{1,3}|IV|V)\b", tail, flags=re.IGNORECASE)
+        if compact:
+            if transport_class.startswith("no reportado"):
+                transport_class = compact.group(1)
+            if packing_group.startswith("no reportado"):
+                packing_group = compact.group(2).upper()
+
+    return onu, transport_class, packing_group
+
+
 def extract_emergency_phone(results: list[SearchResult]) -> LiteralAnswer | None:
     rows: list[list[str]] = []
     for result in results:
@@ -134,12 +155,13 @@ def extract_transport(results: list[SearchResult]) -> LiteralAnswer | None:
         content = result.chunk["content"]
         if "onu" not in normalized(content) and "un " not in normalized(content):
             continue
+        onu, transport_class, packing_group = transport_fields(content)
         rows.append(
             [
                 source_label(result),
-                first_match(r"(?:N[úu]mero ONU|No\. UN/ID)\s*:\s*([^\n]+)", content),
-                first_match(r"Clase\s*:\s*([^\n]+)", content),
-                first_match(r"Grupo de embalaje\s*:\s*([^\n]+)", content),
+                onu,
+                transport_class,
+                packing_group,
             ]
         )
     if not rows:

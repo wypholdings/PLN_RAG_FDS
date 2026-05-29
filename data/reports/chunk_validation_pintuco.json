@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Pintuco",
+  "chunks": 589,
+  "expected_sections": 304,
+  "covered_sections": 304,
+  "missing_sections": [],
+  "expected_tables": 892,
+  "covered_tables": 892,
+  "missing_tables": [],
+  "expected_images": 634,
+  "covered_images": 634,
+  "missing_images": [],
+  "empty_chunks": [],
+  "missing_trace": [],
+  "duplicate_chunk_ids": [],
+  "status": "pass"
+}

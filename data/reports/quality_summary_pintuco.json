@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Pintuco",
+  "documents_validated": 19,
+  "documents_passed": 19,
+  "documents_for_review": 0,
+  "average_quality_score": 100.0,
+  "duplicate_aliases": 2,
+  "alias_errors": [],
+  "asset_errors": [],
+  "report_csv": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/reports/quality_report_pintuco.csv"
+}
