@@ -1,3 +1,6 @@
 export DYLD_LIBRARY_PATH="/opt/homebrew/opt/expat/lib:${DYLD_LIBRARY_PATH:-}"
+export HF_HOME="/Users/danielwilches/.cache/huggingface"
+export TRANSFORMERS_CACHE="/Users/danielwilches/.cache/huggingface/hub"
+export SENTENCE_TRANSFORMERS_HOME="/Users/danielwilches/.cache/torch/sentence_transformers"
 export OLLAMA_BASE_URL="http://127.0.0.1:11434"
 export OLLAMA_MODEL="qwen2.5:3b"
