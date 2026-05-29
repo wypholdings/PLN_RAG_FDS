@@ -42,7 +42,7 @@ def literal_lines(content: str, terms: list[str], limit: int = 8) -> list[str]:
 
 def table_answer(headers: list[str], rows: list[list[str]]) -> str:
     def cell(value: str) -> str:
-        return value.replace("|", "&#124;").replace("\n", " ")
+        return value.replace("|", "&#124;").replace("\n", " ").replace("<br>", "; ")
 
     lines = [
         "| " + " | ".join(cell(header) for header in headers) + " |",
@@ -51,6 +51,22 @@ def table_answer(headers: list[str], rows: list[list[str]]) -> str:
     for row in rows:
         lines.append("| " + " | ".join(cell(value) for value in row) + " |")
     return "\n".join(lines)
+
+
+def unique_preserve_order(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    output: list[str] = []
+    for value in values:
+        clean = " ".join(value.split()).strip(" ;")
+        if clean and clean not in seen:
+            seen.add(clean)
+            output.append(clean)
+    return output
+
+
+def first_match(pattern: str, text: str) -> str:
+    match = re.search(pattern, text, flags=re.IGNORECASE)
+    return match.group(1).strip() if match else "no reportado en el fragmento"
 
 
 def extract_emergency_phone(results: list[SearchResult]) -> LiteralAnswer | None:
@@ -115,17 +131,21 @@ def extract_transport(results: list[SearchResult]) -> LiteralAnswer | None:
     for result in results:
         if int(result.chunk["section_number"]) != 14:
             continue
-        lines = literal_lines(
-            result.chunk["content"],
-            ["onu", "un ", "clase", "grupo de embalaje", "designacion", "transporte"],
-            limit=10,
+        content = result.chunk["content"]
+        if "onu" not in normalized(content) and "un " not in normalized(content):
+            continue
+        rows.append(
+            [
+                source_label(result),
+                first_match(r"(?:N[úu]mero ONU|No\. UN/ID)\s*:\s*([^\n]+)", content),
+                first_match(r"Clase\s*:\s*([^\n]+)", content),
+                first_match(r"Grupo de embalaje\s*:\s*([^\n]+)", content),
+            ]
         )
-        if lines:
-            rows.append([source_label(result), "<br>".join(lines)])
     if not rows:
         return None
     return LiteralAnswer(
-        answer=table_answer(["Fuente", "Evidencia literal de transporte"], rows),
+        answer=table_answer(["Fuente", "Numero ONU", "Clase", "Grupo de embalaje"], rows),
         reason="transporte_extraido_literalmente",
     )
 
@@ -136,9 +156,19 @@ def extract_cas_components(results: list[SearchResult]) -> LiteralAnswer | None:
     for result in results:
         if int(result.chunk["section_number"]) != 3:
             continue
-        lines = [line.strip() for line in result.chunk["content"].splitlines() if cas_pattern.search(line)]
+        candidates: list[str] = []
+        for raw_line in result.chunk["content"].splitlines():
+            line = raw_line.strip()
+            if not cas_pattern.search(line):
+                continue
+            if line.startswith("|"):
+                cells = [cell.strip() for cell in line.strip("|").split("|") if cell.strip()]
+                candidates.extend(cells)
+            else:
+                candidates.append(line)
+        lines = unique_preserve_order(candidates)
         if lines:
-            rows.append([source_label(result), "<br>".join(lines[:12])])
+            rows.append([source_label(result), "; ".join(lines[:10])])
     if not rows:
         return None
     return LiteralAnswer(
