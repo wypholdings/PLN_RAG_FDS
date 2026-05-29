@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "chunks_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/processed/chunks/sika_chunks.jsonl",
+  "chunk_count": 224,
+  "embedding_dim": 384,
+  "normalized": true,
+  "similarity": "hybrid_cosine_tfidf",
+  "semantic_weight": 0.55,
+  "lexical_weight": 0.25,
+  "term_coverage_weight": 0.2,
+  "section_match_boost": 0.18
+}

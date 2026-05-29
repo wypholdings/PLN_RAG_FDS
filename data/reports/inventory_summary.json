@@ -1,0 +1,22 @@
+{
+  "manufacturers": {
+    "SIKA": {
+      "documents": 15,
+      "pages": 159,
+      "documents_with_16_sections": 15,
+      "documents_with_extraction_errors": 0,
+      "duplicate_file_groups": 1,
+      "duplicate_text_groups": 1,
+      "low_text_documents": 0
+    },
+    "Pintuco": {
+      "documents": 21,
+      "pages": 241,
+      "documents_with_16_sections": 20,
+      "documents_with_extraction_errors": 0,
+      "duplicate_file_groups": 2,
+      "duplicate_text_groups": 2,
+      "low_text_documents": 0
+    }
+  }
+}

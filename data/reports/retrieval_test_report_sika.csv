@@ -1,0 +1,6 @@
+id,query,expected_section,top1_section,top1_chunk_id,top1_source_file,top1_score,expected_section_top1,expected_section_in_top_k,required_terms,required_terms_found,required_terms_ok
+emergency_phone,telefono de emergencia CISPROQUIM,1,1,sika__fds-87-esmalte-epoxico-part-a-sika__sec01__chunk01,FDS 87 - Esmalte Epóxico Part A - SIKA.pdf,0.699717,True,True,CISPROQUIM|Bogotá|Resto del país,CISPROQUIM|Bogotá|Resto del país,True
+ppe_section_8,equipo de proteccion personal guantes gafas respirador seccion 8,8,8,sika__fds-27-epoxi-100hs-s300-ca__sec08__chunk01,FDS 27 - Epoxi_100HS_S300_CA.pdf,0.849507,True,True,Protección respiratoria,Protección respiratoria,True
+transport_un,numero ONU transporte clase grupo de embalaje,14,14,sika__fds-72-sikafloor-2430-co-comp-b-sika__sec14__chunk01,FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf,1.027581,True,True,Número ONU|Grupo de embalaje,Número ONU|Grupo de embalaje,True
+composition_cas,composicion componentes CAS concentracion,3,3,sika__fds-74-sikafloor-161-264-b-sika__sec03__chunk01,FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf,0.842217,True,True,CAS,CAS,True
+physical_properties,propiedades fisicas quimicas punto de inflamacion densidad,9,9,sika__fds-28-401-pintura-texturizada1__sec09__chunk01,FDS 28- 401 Pintura Texturizada1.pdf,0.818429,True,True,Aspecto,Aspecto,True

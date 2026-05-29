@@ -1,0 +1,202 @@
+[
+  {
+    "id": "GT-001",
+    "question": "Cual es el telefono de emergencia CISPROQUIM?",
+    "expected_answer": "Bogota: 2886012 / 9191919. Resto del pais: 01 8000 916012.",
+    "expected_section": 1,
+    "expected_terms": ["cisproquim", "2886012", "916012"],
+    "type": "factual"
+  },
+  {
+    "id": "GT-002",
+    "question": "Cual es el telefono del proveedor Sika Colombia?",
+    "expected_answer": "(+571) 878-6333",
+    "expected_section": 1,
+    "expected_terms": ["878", "6333"],
+    "type": "factual"
+  },
+  {
+    "id": "GT-003",
+    "question": "En que seccion se reporta la identificacion de peligros?",
+    "expected_answer": "Seccion 2",
+    "expected_section": 2,
+    "expected_terms": ["peligros", "seccion 2"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-004",
+    "question": "Que seccion contiene composicion e informacion sobre componentes?",
+    "expected_answer": "Seccion 3",
+    "expected_section": 3,
+    "expected_terms": ["composicion", "componentes"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-005",
+    "question": "Que seccion contiene primeros auxilios?",
+    "expected_answer": "Seccion 4",
+    "expected_section": 4,
+    "expected_terms": ["primeros auxilios"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-006",
+    "question": "Que seccion contiene medidas de lucha contra incendios?",
+    "expected_answer": "Seccion 5",
+    "expected_section": 5,
+    "expected_terms": ["incendios"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-007",
+    "question": "Que seccion contiene medidas en caso de vertido accidental?",
+    "expected_answer": "Seccion 6",
+    "expected_section": 6,
+    "expected_terms": ["vertido", "accidental"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-008",
+    "question": "Que seccion contiene manipulacion y almacenamiento?",
+    "expected_answer": "Seccion 7",
+    "expected_section": 7,
+    "expected_terms": ["manipulacion", "almacenamiento"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-009",
+    "question": "Que seccion contiene controles de exposicion y proteccion personal?",
+    "expected_answer": "Seccion 8",
+    "expected_section": 8,
+    "expected_terms": ["proteccion", "exposicion"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-010",
+    "question": "Que seccion contiene propiedades fisicas y quimicas?",
+    "expected_answer": "Seccion 9",
+    "expected_section": 9,
+    "expected_terms": ["propiedades fisicas", "quimicas"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-011",
+    "question": "Que seccion contiene estabilidad y reactividad?",
+    "expected_answer": "Seccion 10",
+    "expected_section": 10,
+    "expected_terms": ["estabilidad", "reactividad"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-012",
+    "question": "Que seccion contiene informacion toxicologica?",
+    "expected_answer": "Seccion 11",
+    "expected_section": 11,
+    "expected_terms": ["toxicologica"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-013",
+    "question": "Que seccion contiene informacion ecologica?",
+    "expected_answer": "Seccion 12",
+    "expected_section": 12,
+    "expected_terms": ["ecologica"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-014",
+    "question": "Que seccion contiene consideraciones relativas a la eliminacion?",
+    "expected_answer": "Seccion 13",
+    "expected_section": 13,
+    "expected_terms": ["eliminacion"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-015",
+    "question": "Que seccion contiene informacion relativa al transporte?",
+    "expected_answer": "Seccion 14",
+    "expected_section": 14,
+    "expected_terms": ["transporte"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-016",
+    "question": "Que seccion contiene informacion reglamentaria?",
+    "expected_answer": "Seccion 15",
+    "expected_section": 15,
+    "expected_terms": ["reglamentaria"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-017",
+    "question": "Que seccion contiene otra informacion?",
+    "expected_answer": "Seccion 16",
+    "expected_section": 16,
+    "expected_terms": ["otra informacion"],
+    "type": "trazabilidad"
+  },
+  {
+    "id": "GT-018",
+    "question": "Indica el numero ONU, clase y grupo de embalaje (si aplica).",
+    "expected_answer": "Debe provenir de Seccion 14 con cita de fuente.",
+    "expected_section": 14,
+    "expected_terms": ["onu", "clase", "embalaje"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-019",
+    "question": "Que EPP se recomienda para manipulacion del producto?",
+    "expected_answer": "Debe provenir de Seccion 8 con cita de fuente.",
+    "expected_section": 8,
+    "expected_terms": ["guantes", "ocular", "respir"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-020",
+    "question": "Que informacion aparece en composicion y componentes CAS?",
+    "expected_answer": "Debe provenir de Seccion 3 con cita de fuente.",
+    "expected_section": 3,
+    "expected_terms": ["cas", "componente"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-021",
+    "question": "Cual es el uso recomendado del producto?",
+    "expected_answer": "Debe provenir de Seccion 1 con cita de fuente.",
+    "expected_section": 1,
+    "expected_terms": ["uso", "producto"],
+    "type": "factual"
+  },
+  {
+    "id": "GT-022",
+    "question": "Que medidas se indican para incendio?",
+    "expected_answer": "Debe provenir de Seccion 5 con cita de fuente.",
+    "expected_section": 5,
+    "expected_terms": ["incendio", "extinc"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-023",
+    "question": "Que medidas se indican para derrames o vertidos accidentales?",
+    "expected_answer": "Debe provenir de Seccion 6 con cita de fuente.",
+    "expected_section": 6,
+    "expected_terms": ["vertido", "derrame"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-024",
+    "question": "Que propiedades fisicoquimicas relevantes reporta la ficha?",
+    "expected_answer": "Debe provenir de Seccion 9 con cita de fuente.",
+    "expected_section": 9,
+    "expected_terms": ["punto", "densidad", "inflam"],
+    "type": "tecnica"
+  },
+  {
+    "id": "GT-025",
+    "question": "Que precauciones de almacenamiento se reportan?",
+    "expected_answer": "Debe provenir de Seccion 7 con cita de fuente.",
+    "expected_section": 7,
+    "expected_terms": ["almacenamiento", "manipulacion"],
+    "type": "tecnica"
+  }
+]

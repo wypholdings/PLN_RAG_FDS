@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SIKA",
+  "documents": 14,
+  "chunks": 224,
+  "sections_expected": 224,
+  "sections_covered": 224,
+  "chunks_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/processed/chunks/sika_chunks.jsonl",
+  "report_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/reports/chunk_report_sika.csv",
+  "content_type_counts": {
+    "image": 107,
+    "ocr": 107,
+    "table": 32,
+    "text": 224
+  },
+  "max_tokens": 850,
+  "overlap_tokens": 100
+}

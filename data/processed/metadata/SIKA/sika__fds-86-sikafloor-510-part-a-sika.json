@@ -1,0 +1,410 @@
+{
+  "document_id": "sika__fds-86-sikafloor-510-part-a-sika",
+  "manufacturer": "SIKA",
+  "source_path": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/Documentos - Parcial final/SIKA/FDS 86 - Sikafloor®-510  Part A - SIKA.pdf",
+  "source_file": "FDS 86 - Sikafloor®-510  Part A - SIKA.pdf",
+  "product": "Sikafloor®-510 Part A",
+  "page_count": 10,
+  "file_sha256": "df6de3b78420a38cfe86b80b56eb0a63c675a295f099c757f7b38a0c19c622d4",
+  "text_sha256": "e11799581547848ef7037579881fbcd0771efbfab14b7eb57df277ca27d5d34b",
+  "section_count": 16,
+  "sections": [
+    {
+      "number": 1,
+      "title": "Identificacion de la sustancia o la mezcla y de la sociedad o la empresa",
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Nombre del producto\n\n: Sikafloor®-510 Part A\n\nInformaciones sobre el fabricante o el proveedor\nCompañía\n\n: Sika Colombia S.A.S.\nVereda Canavita km 20,5 Autopista Norte\nTocancipá, Cundinamarca\nColombia\n\nTeléfono\n\n: (57-1) 8786333\n\nTeléfono de emergencia\n\n: CISPROQUIM\nBogotá: 2886012 / 2886355\nResto del país: 01 8000 916012\n\nDirección de correo electróni-\nco\n\n: controlcalidad.lab@co.sika.com\n\nFax\n\n: (57-1) 8786660\n\nUso recomendado del producto químico y restricciones de uso\nUso del producto : Revestimiento de poliuretano"
+    },
+    {
+      "number": 2,
+      "title": "Identificacion de los peligros",
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Clasificación según SGA (GHS)\nCorrosión/irritación cutáneas\n\n: Categoría 3\nSensibilización cutánea\n\n: Categoría 1\nToxicidad a la reproducción\n\n: Categoría 2\nPeligro a corto plazo (agudo)\npara el medio ambiente acuá-\ntico\n\n: Categoría 3\nPeligro a largo plazo (crónico)\npara el medio ambiente acuá-\ntico\n\n: Categoría 3\nEtiqueta SGA (GHS)\nPictogramas de peligro\n\n:\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nPalabra de advertencia : Atención\n\nIndicaciones de peligro\n\n: H316 Provoca una leve irritación cutánea.\nH317 Puede provocar una reacción cutánea alérgica.\nH361f Susceptible de perjudicar la fertilidad.\nH412 Nocivo para los organismos acuáticos, con efectos noci-\nvos duraderos.\n\nConsejos de prudencia\n\n: Prevención:\nP201 Procurarse las instrucciones antes del uso.\nP202 No manipular antes de haber leído y comprendido todas\nlas precauciones de seguridad.\nP261 Evitar respirar nieblas o vapores.\nP272 La ropa de trabajo contaminada no debe salir del lugar\nde trabajo.\nP273 No dispersar en el medio ambiente.\nP280 Usar guantes/ ropa de protección/ equipo de protección\npara los ojos/ la cara.\nIntervención:\nP302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar\ncon abundante agua.\nP308 + P313 EN CASO DE exposición demostrada o supues-\nta: consultar a un médico.\nP333 + P313 En caso de irritación cutánea o sarpullido: consul-\ntar a un médico.\nP362 + P364 Quitar la ropa contaminada y lavarla antes de\nvolverla a usar.\nAlmacenamiento:\nP405 Guardar bajo llave.\nEliminación:\nP501 Eliminar el contenido/ recipiente en una planta de elimi-\nnación de residuos aprobada.\n\nOtros peligros no clasificables\nNinguno conocido."
+    },
+    {
+      "number": 3,
+      "title": "Composicion/informacion sobre los componentes",
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Sustancia / mezcla : Mezcla\nComponentes\nNombre químico CAS No. Concentración (% w/w)\nBis(4-(1,2-bis(etoxicarbonil)etilamino)-3-\nmetilciclohexil)metano\n136210-32-7 >= 30 - < 50\nN,N'-(metilendiciclohexano-4,1-diil)bis-DL-\naspartato de tetraetilo\n136210-30-5 >= 30 - < 50\nacetato de 2-metoxi-1-metiletilo 108-65-6 >= 5 - < 10\nfumarato de dietilo 623-91-6 >= 2,5 - < 5\nsebacato de bis(1,2,2,6,6-pentametil-4-\npiperidilo)\n41556-26-7 >= 0,25 - < 1\nsebacato de metilo y 1,2,2,6,6-pentametil-4-\npiperidilo\n82919-37-7 >= 0,1 - < 0,25\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23"
+    },
+    {
+      "number": 4,
+      "title": "Primeros auxilios",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Consejos generales : Retire a la persona de la zona peligrosa.\nConsulte a un médico.\nMuéstrele esta hoja de seguridad al doctor que esté de servi-\ncio.\n\nEn caso de inhalación\n\n: Salga al aire libre.\nConsultar a un médico después de una exposición importan-\nte.\n\nEn caso de contacto con la\npiel\n\n: Quítese inmediatamente la ropa y zapatos contaminados.\nElimínelo lavando con jabón y mucha agua.\nSi persisten los síntomas, llame a un médico.\n\nEn caso de contacto con los\nojos\n\n: Quítese los lentes de contacto.\nManténgase el ojo bien abierto mientras se lava.\nSi persiste la irritación de los ojos, consulte a un especialista.\n\nEn caso de ingestión\n\n: Lávese la boca con agua y después beba agua abundante.\nNo dé leche ni bebidas alcohólicas.\nNunca debe administrarse nada por la boca a una persona\ninconsciente.\nConsulte al médico.\n\nSíntomas y efectos más im-\nportante, agudos y retarda-\ndos\n: efectos sensibilizantes\nReacciones alérgicas\nVea la Sección 11 para obtener información detallada sobre la\nsalud y los síntomas.\nProvoca una leve irritación cutánea.\nPuede provocar una reacción cutánea alérgica.\nSusceptible de perjudicar la fertilidad.\n\nNotas especiales para un\nmedico tratante\n\n: Trate sintomáticamente."
+    },
+    {
+      "number": 5,
+      "title": "Medidas de lucha contra incendios",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Medios de extinción apropia-\ndos\n\n: Use medidas de extinción que sean apropiadas a las circuns-\ntancias locales y de sus alrededores.\n\nProductos de combustión\npeligrosos\n\n: No se conocen productos de combustión peligrosos\n\nMétodos específicos de ex-\ntinción\n: Procedimiento estándar para incendios químicos.\n\nEquipo de protección espe-\ncial para los bomberos\n\n: En caso de incendio, utilice un equipo respiratorio autónomo."
+    },
+    {
+      "number": 6,
+      "title": "Medidas en caso de vertido accidental",
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Precauciones personales,\nequipo de protección y pro-\ncedimientos de emergencia\n\n: Utilice equipo de protección personal.\nNegar el acceso a personas sin protección.\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nPrecauciones relativas al\nmedio ambiente\n\n: No lo vierta en el agua superficial o el sistema de alcantarilla-\ndo sanitario.\nSi el producto contamina los ríos, lagos o alcantarillados, in-\nformar a las autoridades respectivas.\n\nMétodos y materiales de\ncontención y limpieza\n\n: Recójalo con un producto absorbente inerte (por ejemplo,\narena, silicagel, aglutinante de ácidos, aglutinante universal,\naserrín).\nGuarde en contenedores apropiados y cerrados para su eli-\nminación."
+    },
+    {
+      "number": 7,
+      "title": "Manipulacion y almacenamiento",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Sugerencias para la protec-\nción contra incendios y ex-\nplosiones\n\n: Medidas normales preventivas para la protección contra in-\ncendios.\n\nConsejos para una manipu-\nlación segura\n: Evitar sobrepasar los límites dados de exposición profesional\n(ver sección 8).\nEvitar todo contacto con los ojos, la piel o la ropa.\nVer sección 8 para el equipo de protección personal.\nLas personas que hayan tenido problemas de sensibilisación\nde la piel, asma, alergías, enfermedades respiratorias cróni-\ncas o recurrentes, no deben ser empleadas en ninguna parte\ndel proceso en la cual esté utilizada esta preparación.\nFumar, comer y beber debe prohibirse en el área de aplica-\nción.\nCuando se manejen productos químicos, siga las medidas\nestándar de higiene.\n\nCondiciones para el almace-\nnamiento seguro\n\n: Conserve el envase herméticamente cerrado en un lugar seco\ny bien ventilado.\nLos contenedores que se abren deben ser cuidadosamente\nresellados y mantenerlos en posición vertical para evitar fu-\ngas.\nAlmacenar en conformidad con la reglamentación local."
+    },
+    {
+      "number": 8,
+      "title": "Controles de exposicion/proteccion individual",
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Componentes con parámetros de control en el área de trabajo\nNo contiene sustancias con valores límite de exposición laboral.\nProtección personal\nProtección respiratoria : Utilice protección respiratoria a menos que exista una venti-\nlación de escape adecuada o que la evaluación de la exposi-\nción indique que el nivel de exposición está dentro de las\npautas recomendadas.\nLa clase de filtro para el respirador debe ser adecuada para\nla concentración máxima prevista del contaminante\n(gas/vapor/aerosol/partículas) que puede presentarse al ma-\nnejar el producto. Si se excede esta concentración, se debe\nutilizar un aparato respiratorio autónomo.\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nProtección de las manos : Guantes químico-resistentes e impermeables que cumplan\ncon estándares aprobados deben ser utilizados cuando se\nmanejen productos químicos y la evaluación del riesgo indica\nque es necesario.\n\nProtección de los ojos : Equipo de protección ocular que cumpla con estándares\naprobados debe ser utilizado cuando la evaluación del riesgo\nindica que es necesario.\n\nProtección de la piel y del\ncuerpo\n: Elegir la protección para el cuerpo según sus caraterísticas,\nla concentración y la cantidad de sustancias peligrosas, y el\nlugar específico de trabajo.\n\nMedidas de higiene : Manipúlelo con las precauciones de higiene industrial ade-\ncuadas, y respete las prácticas de seguridad.\nNo coma ni beba durante su utilización.\nNo fume durante su utilización.\nLavarse las manos antes de los descansos y después de\nterminar la jornada laboral."
+    },
+    {
+      "number": 9,
+      "title": "Propiedades fisicas y quimicas",
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Aspecto\n\n: líquido\n\nColor : varios\n\nOlor : Sin datos disponibles\n\nUmbral de olor : Sin datos disponibles\n\npH : No aplicable\n\nPunto de fusión/ rango / Pun-\nto de congelación\n: Sin datos disponibles\n\nPunto / intervalo de ebullición : Sin datos disponibles\n\nPunto de inflamación : no se inflama\n\nTasa de evaporación : Sin datos disponibles\n\nInflamabilidad (sólido, gas)\n\n: Sin datos disponibles\n\nLímite superior de explosivi-\ndad / Límite de inflamabilidad\nsuperior\n\n: Sin datos disponibles\n\nLímite inferior de explosividad\n/ Límite de inflamabilidad infe-\nrior\n\n: Sin datos disponibles\n\nPresión de vapor : 3,1 hPa\n\nDensidad relativa de vapor\n\n: Sin datos disponibles\n\nDensidad\n\n: 1,4 g/cm3 (20 °C (20 °C))\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nSolubilidad\nHidrosolubilidad : insoluble\n\nSolubilidad en otros disol-\nventes\n: Sin datos disponibles\n\nCoeficiente de reparto n-\noctanol/agua\n: Sin datos disponibles\n\nTemperatura de ignición es-\npontánea\n: Sin datos disponibles\n\nTemperatura de descomposi-\nción\n: Sin datos disponibles\n\nViscosidad\nViscosidad, dinámica : Sin datos disponibles\n\nViscosidad, cinemática : > 7 mm2/s ( 40 °C (40 °C))\n\nPropiedades explosivas : Sin datos disponibles\n\nPropiedades comburentes : Sin datos disponibles"
+    },
+    {
+      "number": 10,
+      "title": "Estabilidad y reactividad",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Reactividad\n\n: No se conoce ninguna reacción peligrosa bajo condiciones de\nuso normal.\n\nEstabilidad química\n\n: El producto es químicamente estable.\n\nPosibilidad de reacciones\npeligrosas\n\n: Sin riesgos a mencionar especialmente.\n\nCondiciones que deben evi-\ntarse\n\n: Sin datos disponibles\n\nMateriales incompatibles\n\n: Sin datos disponibles\n\nProductos de descomposición\npeligrosos\n: No se conocen productos de descomposición peligrosos."
+    },
+    {
+      "number": 11,
+      "title": "Informacion toxicologica",
+      "page_start": 6,
+      "page_end": 7,
+      "text": "Toxicidad aguda\nNo se clasifica debido a la falta de datos.\nComponentes:\nacetato de 2-metoxi-1-metiletilo:\nToxicidad oral aguda : DL50 Oral (Rata): > 5.000 mg/kg\n\nToxicidad dérmica aguda : LD50 Dermico (Conejo): > 5.000 mg/kg\n\nfumarato de dietilo:\nToxicidad oral aguda : DL50 Oral (Rata): 1.367 mg/kg\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nCorrosión o irritación cutáneas\nProvoca una leve irritación cutánea.\nLesiones oculares graves/irritación ocular\nNo se clasifica debido a la falta de datos.\nSensibilización respiratoria o cutánea\nSensibilización cutánea\nPuede provocar una reacción cutánea alérgica.\nSensibilización respiratoria\nNo se clasifica debido a la falta de datos.\nMutagenicidad en células germinales\nNo se clasifica debido a la falta de datos.\nCarcinogenicidad\nNo se clasifica debido a la falta de datos.\nToxicidad para la reproducción\nSusceptible de perjudicar la fertilidad.\nToxicidad sistémica específica de órganos blanco - exposición única\nNo se clasifica debido a la falta de datos.\nToxicidad sistémica específica de órganos blanco - exposiciones repetidas\nNo se clasifica debido a la falta de datos.\nToxicidad por aspiración\nNo se clasifica debido a la falta de datos."
+    },
+    {
+      "number": 12,
+      "title": "Informacion ecologica",
+      "page_start": 7,
+      "page_end": 8,
+      "text": "Ecotoxicidad\nComponentes:\nfumarato de dietilo:\nToxicidad para peces : CL50 (Pez): 2,4 mg/l\nTiempo de exposición: 72 h\n\nPersistencia y degradabilidad\nSin datos disponibles\nPotencial de bioacumulación\nSin datos disponibles\nMovilidad en el suelo\nSin datos disponibles\nOtros efectos adversos\nProducto:\nInformación ecológica com-\nplementaria\n: No se puede excluir un peligro para el medio ambiente en el\ncaso de una manipulación o eliminación no profesional.\nNocivo para los organismos acuáticos, con efectos nocivos\nduraderos.\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23"
+    },
+    {
+      "number": 13,
+      "title": "Consideraciones relativas a la eliminacion",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Métodos de eliminación\nResiduos : Envíese a una compañía autorizada para la gestión de resi-\nduos.\n\nEvite que el producto penetre en los desagües, tuberías, o la\ntierra (suelos).\nNo contamine los estanques, cursos de agua o zanjas con el\nproducto químico o el contendor utilizado.\n\nEnvases contaminados : Vacíe el contenido restante.\nEliminar como producto no usado.\n\nNo reutilice los recipientes vacíos."
+    },
+    {
+      "number": 14,
+      "title": "Informacion relativa al transporte",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Regulaciones internacionales\nUNRTDG\nNo regulado como mercancía peligrosa\nIATA-DGR\nNo regulado como mercancía peligrosa\nCódigo-IMDG\nNo regulado como mercancía peligrosa\nTransporte a granel de acuerdo a instrumentos IMO\nNo aplicable para el producto tal y como se proveyó.\nPrecauciones especiales para los usuarios\nNo aplicable"
+    },
+    {
+      "number": 15,
+      "title": "Informacion reglamentaria",
+      "page_start": 8,
+      "page_end": 9,
+      "text": "Reglamentación medioambiental, seguridad y salud específica para la sustancia o mezcla\nConvención Internacional sobre las Armas Químicas\n(CWC) Programas sobre los Productos Químicos Tó-\nxicos y los Precursores (Louisiana Administrative Co-\nde, Title 33,Part V Section 10101 et. seq.)\n: No aplicable\n\nSustancias y productos químicos controlados por el\nMinisterio de Justicia\n\n: No aplicable\n\nListado de Sustancias incluídas como Sustancias de\nControl Especial y Sometidas a Fiscalización por el\nMinisterio de Salud y Protección Social\n\n: No aplicable\n\nResolución 2715 de 2014 Por la cual se establecen las\nsustancias que deben ser objeto de registro de control\nde venta al menudeo, con base en los criterios de\nclasiﬁcación que se definen.\n\n: No aplicable\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23"
+    },
+    {
+      "number": 16,
+      "title": "Otra informacion",
+      "page_start": 9,
+      "page_end": 10,
+      "text": "Fecha de revisión : 2024/09/23\nformato de fecha : aaaa/mm/dd\nInformación adicional\nNFPA: HMIS® IV:\n\nLas clasificaciones HMIS® se basan en\nuna escala del 0 al 4 en la que 0 significa\nriesgos o peligros mínimos y 4 significa\nriesgos o peligros serios. El \"*\" represen-\nta un peligro crónico, mientras que la \"/\"\nrepresenta la ausencia de un peligro\ncrónico.\n\nTexto completo de otras abreviaturas\n\nADR : Accord européen relatif au transport international des\nmarchandises Dangereuses par Route\nCAS : Chemical Abstracts Service\nDNEL : Derived no-effect level\nEC50 : Half maximal effective concentration\nGHS : Globally Harmonized System\nIATA : International Air Transport Association\nIMDG : International Maritime Code for Dangerous Goods\nLD50 : Median lethal dosis (the amount of a material, given all at\nonce, which causes the death of 50% (one half) of a group of\ntest animals)\nLC50 : Median lethal concentration (concentrations of the chemical in\nair that kills 50% of the test animals during the observation\nperiod)\nMARPOL : International Convention for the Prevention of Pollution from\nShips, 1973 as modified by the Protocol of 1978\nOEL : Occupational Exposure Limit\nPBT : Persistent, bioaccumulative and toxic\nPNEC : Predicted no effect concentration\nREACH : Regulation (EC) No 1907/2006 of the European Parliament\nand of the Council of 18 December 2006 concerning the Reg-\nistration, Evaluation, Authorisation and Restriction of Chemi-\ncals (REACH), establishing a European Chemicals Agency\nSVHC : Substances of Very High Concern\nvPvB : Very persistent and very bioaccumulative\nInflamabilidad\n\nInestabilidad\n\nSalud 2\n\n0\n1\nPeligro especial\n\n2\n0\n1\n*\nRIESGO FÍSICO\n\nINFLAMABILIDAD\n\nSALUD\n\nFICHA DE DATOS DE SEGURIDAD\n\nVersión 2.3 Número de HDS: 000000611764 Fecha de revisión: 2024/09/23\n\nLa informacion contenida en este ficha de datos de seguridad corresponde a nuestro nivel de\nconocimiento en el momento de su publicacion. Quedan excluidas todas las garantias. Se\naplicaran nuestras condiciones generales de venta en vigor. Por favor, consulte la Hoja de\nDatos del Producto antes de su uso y procesamiento.\nCO / 1X"
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "sika__fds-86-sikafloor-510-part-a-sika__p002_tbl01",
+      "page": 2,
+      "section_number": 3,
+      "bbox": [
+        88.34400177001953,
+        635.6319793701172,
+        533.418921576606,
+        767.2319458007812
+      ],
+      "markdown": "|Col1|Nombre químico|Col3|Col4|CAS No.|Col6|Col7|Concentración (% w/w)|Col9|\n|---|---|---|---|---|---|---|---|---|\n|Bis(4-(1,2-bis(etoxicarbonil)etilamino)-3-<br>metilciclohexil)metano|Bis(4-(1,2-bis(etoxicarbonil)etilamino)-3-<br>metilciclohexil)metano|Bis(4-(1,2-bis(etoxicarbonil)etilamino)-3-<br>metilciclohexil)metano|136210-32-7|136210-32-7|136210-32-7|>= 30 -< 50|>= 30 -< 50|>= 30 -< 50|\n|N,N'-(metilendiciclohexano-4,1-diil)bis-DL-<br>aspartato de tetraetilo|N,N'-(metilendiciclohexano-4,1-diil)bis-DL-<br>aspartato de tetraetilo|N,N'-(metilendiciclohexano-4,1-diil)bis-DL-<br>aspartato de tetraetilo|136210-30-5|136210-30-5|136210-30-5|>= 30 -< 50|>= 30 -< 50|>= 30 -< 50|\n|acetato de 2-metoxi-1-metiletilo|acetato de 2-metoxi-1-metiletilo|acetato de 2-metoxi-1-metiletilo|108-65-6|108-65-6|108-65-6|>=5 -< 10|>=5 -< 10|>=5 -< 10|\n|fumarato de dietilo|fumarato de dietilo|fumarato de dietilo|623-91-6|623-91-6|623-91-6|>= 2,5 -<5|>= 2,5 -<5|>= 2,5 -<5|\n|sebacato de bis(1,2,2,6,6-pentametil-4-<br>piperidilo)|sebacato de bis(1,2,2,6,6-pentametil-4-<br>piperidilo)|sebacato de bis(1,2,2,6,6-pentametil-4-<br>piperidilo)|41556-26-7|41556-26-7|41556-26-7|>= 0,25 -< 1|>= 0,25 -< 1|>= 0,25 -< 1|\n|sebacato de metilo y 1,2,2,6,6-pentametil-4-<br>piperidilo|sebacato de metilo y 1,2,2,6,6-pentametil-4-<br>piperidilo|sebacato de metilo y 1,2,2,6,6-pentametil-4-<br>piperidilo|82919-37-7|82919-37-7|82919-37-7|>= 0,1 -< 0,25|>= 0,1 -< 0,25|>= 0,1 -< 0,25|",
+      "trace_note": "Nota de trazabilidad: tabla `sika__fds-86-sikafloor-510-part-a-sika__p002_tbl01` extraida de la pagina 2, asociada a la Seccion 3 por proximidad espacial y metadatos de pagina."
+    }
+  ],
+  "images": [
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p001_img01",
+      "page": 1,
+      "section_number": 1,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p001_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p001_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p001_img01` extraida de la pagina 1, asociada a la Seccion 1 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p001_img02",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p001_img02.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p001_img02.png",
+      "width": 140,
+      "height": 145,
+      "bbox": [
+        247.8000030517578,
+        714.3499755859375,
+        298.20001220703125,
+        766.5499877929688
+      ],
+      "sha256": "a470af7c312005eec64988905eb729d74c2d06827510ee3bd6f9529c906298ca",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "oy",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p001_img02` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: a470af7c312005eec64988905eb729d74c2d06827510ee3bd6f9529c906298ca."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p001_img03",
+      "page": 1,
+      "section_number": 2,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p001_img03.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p001_img03.png",
+      "width": 140,
+      "height": 145,
+      "bbox": [
+        305.6499938964844,
+        714.3499755859375,
+        356.04998779296875,
+        766.5499877929688
+      ],
+      "sha256": "99ba0d97ca0c32d267af5bdeffe4feaf504b283ae776af4602f870659961dba0",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p001_img03` extraida de la pagina 1, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 99ba0d97ca0c32d267af5bdeffe4feaf504b283ae776af4602f870659961dba0."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p002_img01",
+      "page": 2,
+      "section_number": 2,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p002_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p002_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p002_img01` extraida de la pagina 2, asociada a la Seccion 2 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p003_img01",
+      "page": 3,
+      "section_number": 3,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p003_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p003_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p003_img01` extraida de la pagina 3, asociada a la Seccion 3 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p004_img01",
+      "page": 4,
+      "section_number": 6,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p004_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p004_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p004_img01` extraida de la pagina 4, asociada a la Seccion 6 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p005_img01",
+      "page": 5,
+      "section_number": 8,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p005_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p005_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p005_img01` extraida de la pagina 5, asociada a la Seccion 8 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p006_img01",
+      "page": 6,
+      "section_number": 9,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p006_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p006_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p006_img01` extraida de la pagina 6, asociada a la Seccion 9 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p007_img01",
+      "page": 7,
+      "section_number": 11,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p007_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p007_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p007_img01` extraida de la pagina 7, asociada a la Seccion 11 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p008_img01",
+      "page": 8,
+      "section_number": 12,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p008_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p008_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p008_img01` extraida de la pagina 8, asociada a la Seccion 12 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p009_img01",
+      "page": 9,
+      "section_number": 15,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p009_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p009_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p009_img01` extraida de la pagina 9, asociada a la Seccion 15 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p009_img02",
+      "page": 9,
+      "section_number": 16,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p009_img02.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p009_img02.png",
+      "width": 265,
+      "height": 264,
+      "bbox": [
+        138.5,
+        271.29998779296875,
+        234.10000610351562,
+        366.5
+      ],
+      "sha256": "a16f5b957dcfb9a905f19489df83418eac16023c8d2b5c495b29b12c29031afa",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p009_img02` extraida de la pagina 9, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: a16f5b957dcfb9a905f19489df83418eac16023c8d2b5c495b29b12c29031afa."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p009_img03",
+      "page": 9,
+      "section_number": 16,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p009_img03.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p009_img03.png",
+      "width": 386,
+      "height": 210,
+      "bbox": [
+        309.1000061035156,
+        248.2999725341797,
+        494.4000244140625,
+        348.0999755859375
+      ],
+      "sha256": "e43c6bd15e510195915bcdf84b04854c077ebcee8c950b5897bf58d9a2eed81e",
+      "kind": "imagen_embebida",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p009_img03` extraida de la pagina 9, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina. Tipo detectado: imagen_embebida. Hash SHA-256: e43c6bd15e510195915bcdf84b04854c077ebcee8c950b5897bf58d9a2eed81e."
+    },
+    {
+      "image_id": "sika__fds-86-sikafloor-510-part-a-sika__p010_img01",
+      "page": 10,
+      "section_number": 16,
+      "file_name": "sika__fds-86-sikafloor-510-part-a-sika__p010_img01.png",
+      "relative_markdown_path": "../../assets/SIKA/sika__fds-86-sikafloor-510-part-a-sika/images/sika__fds-86-sikafloor-510-part-a-sika__p010_img01.png",
+      "width": 207,
+      "height": 179,
+      "bbox": [
+        486.8500061035156,
+        23.649978637695312,
+        561.3499755859375,
+        88.0999755859375
+      ],
+      "sha256": "4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1",
+      "kind": "pictograma_o_simbolo",
+      "ocr_text": "",
+      "trace_note": "Nota de trazabilidad: imagen `sika__fds-86-sikafloor-510-part-a-sika__p010_img01` extraida de la pagina 10, asociada a la Seccion 16 por proximidad espacial y metadatos de pagina. Tipo detectado: pictograma_o_simbolo. Hash SHA-256: 4c80c7acb431e9fe61ac3587491660fe82d98b4e21fa6203580c99106a7d7be1."
+    }
+  ],
+  "warnings": [],
+  "extraction_errors": []
+}

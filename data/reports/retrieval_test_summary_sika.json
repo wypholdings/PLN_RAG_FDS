@@ -1,0 +1,9 @@
+{
+  "manufacturer": "SIKA",
+  "tests": 5,
+  "top1_section_passed": 5,
+  "topk_section_passed": 5,
+  "required_terms_passed": 5,
+  "status": "pass",
+  "report_csv": "/Users/danielwilches/Downloads/PLN_ParcialFinalRAG_GrupoI/data/reports/retrieval_test_report_sika.csv"
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SIKA",
+  "chunks": 224,
+  "expected_sections": 224,
+  "covered_sections": 224,
+  "missing_sections": [],
+  "expected_tables": 39,
+  "covered_tables": 39,
+  "missing_tables": [],
+  "expected_images": 174,
+  "covered_images": 174,
+  "missing_images": [],
+  "empty_chunks": [],
+  "missing_trace": [],
+  "duplicate_chunk_ids": [],
+  "status": "pass"
+}
