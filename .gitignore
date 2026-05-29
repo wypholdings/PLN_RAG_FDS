@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+.streamlit_home/
 data/processed/tmp/
 data/runtime_uploads/
 .streamlit/secrets.toml
