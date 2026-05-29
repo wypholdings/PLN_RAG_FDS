@@ -15,6 +15,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 DEFAULT_EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+LOCAL_MODEL_SNAPSHOT_RELATIVE = (
+    ".cache"
+    "/huggingface"
+    "/hub"
+    "/models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2"
+    "/snapshots"
+    "/e8f8c211226b894fcb81acc59f3b34ba3efd5f42"
+)
 
 
 @dataclass(frozen=True)
@@ -44,7 +52,22 @@ def chunk_embedding_text(chunk: dict) -> str:
 def load_model(model_name: str = DEFAULT_EMBEDDING_MODEL) -> SentenceTransformer:
     os.environ.setdefault("HF_HUB_OFFLINE", "1")
     os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
-    return SentenceTransformer(model_name, local_files_only=True)
+    model_path = resolve_local_model_path(model_name)
+    return SentenceTransformer(str(model_path), local_files_only=True)
+
+
+def resolve_local_model_path(model_name: str) -> str | Path:
+    if Path(model_name).exists():
+        return model_name
+    explicit_path = os.environ.get("RAG_EMBEDDING_MODEL_PATH")
+    if explicit_path and Path(explicit_path).exists():
+        return Path(explicit_path)
+    if model_name == DEFAULT_EMBEDDING_MODEL:
+        for home in [Path.home(), Path("/Users/danielwilches")]:
+            local_snapshot = home / LOCAL_MODEL_SNAPSHOT_RELATIVE
+            if local_snapshot.exists():
+                return local_snapshot
+    return model_name
 
 
 def encode_texts(model: SentenceTransformer, texts: list[str], batch_size: int = 32) -> np.ndarray:
@@ -107,16 +130,19 @@ def load_index(index_dir: Path) -> tuple[dict, list[dict], np.ndarray, TfidfVect
 
 def search(index_dir: Path, query: str, top_k: int = 5) -> list[SearchResult]:
     config, chunks, embeddings, vectorizer, lexical_matrix = load_index(index_dir)
-    model = load_model(config["model_name"])
-    query_embedding = encode_texts(model, [query])[0]
-    semantic_scores = embeddings @ query_embedding
     query_lexical = vectorizer.transform([query])
     lexical_scores = (lexical_matrix @ query_lexical.T).toarray().ravel()
     semantic_weight = float(config.get("semantic_weight", 0.55))
     lexical_weight = float(config.get("lexical_weight", 0.25))
     term_coverage_weight = float(config.get("term_coverage_weight", 0.20))
     coverage_scores = np.asarray([term_coverage_score(query, chunk["content"]) for chunk in chunks])
-    scores = semantic_weight * semantic_scores + lexical_weight * lexical_scores + term_coverage_weight * coverage_scores
+    try:
+        model = load_model(config["model_name"])
+        query_embedding = encode_texts(model, [query])[0]
+        semantic_scores = embeddings @ query_embedding
+        scores = semantic_weight * semantic_scores + lexical_weight * lexical_scores + term_coverage_weight * coverage_scores
+    except OSError:
+        scores = lexical_scores + term_coverage_weight * coverage_scores
     requested_section = requested_section_number(query) or inferred_section_number(query)
     if requested_section is not None:
         section_boost = float(config.get("section_match_boost", 0.18))
