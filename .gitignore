@@ -7,3 +7,4 @@ venv/
 data/processed/tmp/
 data/runtime_uploads/
 .streamlit/secrets.toml
+~$*.docx
